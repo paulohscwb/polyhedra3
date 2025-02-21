@@ -30,9 +30,9 @@
 <h3 style="margin-top:3px"><a target="_blank" href="unicorn_nonconvex3/pt-br/"><img src="unicorn_nonconvex3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Unicorn fractals of non-convex polyhedra 3</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="fractalnonconvex6/pt-br/"><img src="fractalnonconvex6/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractals of non-convex polyhedra 6</a></h3>-->
 <hr>
-<!--<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../todos/">&#x1f4c4; Lista completa dos poliedros</a></h3>-->
-<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../../polyhedra/pt-br/">&#x2B50; Poliedros - primeira parte</a></h3>
-<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../../polyhedra2/pt-br/">&#x2B50; Poliedros - segunda parte</a></h3>
+<!--<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="all/">&#x1f4c4; Complete list of polyhedra</a></h3>-->
+<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../polyhedra/">&#x2B50; Polyhedra - first part</a></h3>
+<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../polyhedra2/">&#x2B50; Polyhedra - second part</a></h3>
 <hr>
 <h3 align="center">Virtual Reality</h3>
 <p align="center"><img src="catalangems/vr/salas/videos/catalangems1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="catalangems/vr/salas/videos/catalangems2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
