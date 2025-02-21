@@ -50,82 +50,69 @@ function urlHandler(value) {
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxVEvPQGN_8Y86B_opMhsoQ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Hexecontaedro deltoide</h4>
 <a href="../vr/deltoidal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Hexecontaedro deltoide"></a>
- <br><br><br><br><br>
  <br>O hexecontaedro deltoide é o poliedro dual de 60 faces do pequeno rombicosidodecaedro. Às vezes também é chamado de hexecontaedro trapezoidal, hexecontaedro estrombico ou hexecontaedro diakis.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>2. Icositetraedro deltoide</h4>
 <a href="../vr/deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="icositetraedro deltoide"></a>
- <br><br><br><br><br>
  <br>O icositetraedro deltoide é o poliedro dual de 24 faces do pequeno rombicuboctaedro. Também é chamado de icositetraedro trapezoidal. Um icositetraedro deltoidal aparece no meio à direita como uma das "estrelas" poliédricas na xilogravura de M. C. Escher de 1948 "Estrelas"
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>3. Dodecaedro disdiakis</h4>
 <a href="../vr/disdyakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="dodecaedro disdiakis"></a>
- <br><br><br><br><br>
  <br>O dodecaedro disdiakis é o poliedro dual do grande rombicuboctaedro Arquimediano. Também é chamado de octaedro hexakis.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>4. Triacontaedro disdiakis</h4>
 <a href="../vr/disdyakis_triacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="triacontaedro disdiakis"></a>
- <br><br><br><br><br>
  <br>O triacontaedro disdyakis é o poliedro dual do grande rombicosidodecaedro arquimediano. Também é conhecido como icosaedro hexakis. Um tetraedro 10-composto, octaedro 5-composto, cubo 5-composto, icosaedro, dodecaedro e icosidodecaedro podem ser inscritos nos vértices de um triacontaedro disdyakis.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>5. Hexecontaedro pentagonal</h4>
 <a href="../vr/pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="hexecontaedro pentagonal"></a>
- <br><br><br><br><br>
  <br>O hexecontaedro pentagonal é o poliedro dual de 60 faces do dodecaedro snub. Um tetraedro 10-composto, cubo 5-composto, icosaedro e dodecaedro podem ser inscritos nos vértices do hexecontaedro pentagonal.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>6. Icositetraedro pentagonal</h4>
 <a href="../vr/pentagonal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="icositetraedro pentagonal"></a>
- <br><br><br><br><br>
  <br>O icositetraedro pentagonal é o poliedro dual de 24 faces do cubo snub. O mineral cuprita (Cu<sub>2</sub>O) se forma em cristais icositetraédricos pentagonais. Um cubo, um octaedro e um octaedro estrelado podem ser inscritos no icositetraedro pentagonal.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>7. Dodecaedro pentakis</h4>
 <a href="../vr/pentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="dodecaedro pentakis"></a>
- <br><br><br><br><br>
  <br>O dodecaedro pentakis é o poliedro dual de 60 faces do icosaedro truncado. Ele pode ser construído pelo aumento de um dodecaedro de comprimento de aresta unitário por uma pirâmide. Um tetraedro 10-composto, cubo 5-composto, icosaedro e dodecaedro podem ser inscritos nos vértices do dodecaedro pentakis.
- <br><br><br><br><br>
+ <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>8. Dodecaedro rômbico</h4>
 <a href="../vr/rhombic_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="dodecaedro rômbico"></a>
- <br><br><br><br><br>
  <br>O "primeiro" dodecaedro rômbico é o poliedro dual do cuboctaedro. Às vezes, também é chamado de dodecaedro romboidal, e o "primeiro" pode ser incluído quando necessário para distingui-lo do dodecaedro de Bilinski.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>9. Triacontaedro rômbico</h4>
 <a href="../vr/rhombic_triacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="triacontaedro rômbico"></a>
- <br><br><br><br><br>
  <br>O triacontaedro rômbico é o poliedro dual do icosidodecaedro. Ele é composto de 30 losangos e 32 vértices. As bordas de intersecção do composto dodecaedro-icosaedro formam as diagonais de 30 losangos que compõem o triacontaedro.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>10. Hexaedro tetrakis</h4>
 <a href="../vr/tetrakis_hexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="hexaedro tetrakis"></a>
- <br><br><br><br><br>
  <br>O hexaedro tetrakis é o poliedro dual de 24 faces do octaedro truncado. Um hexaedro tetrakis é um icositetraedro não regular que pode ser construído como um aumento positivo de um cubo. Tal sólido também é conhecido como tetrahexaedro, especialmente para mineralogistas.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>11. Icosaedro triakis</h4>
 <a href="../vr/triakis_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="icosaedro triakis"></a>
- <br><br><br><br><br>
  <br>O icosaedro triakis é o poliedro dual do dodecaedro truncado. Um tetraedro 10-composto, cubo 5-composto, icosaedro e dodecaedro podem ser inscritos nos vértices do icosaedro triakis.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>12. Octaedro triakis</h4>
 <a href="../vr/triakis_octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="octaedro triakis"></a>
- <br><br><br><br><br>
  <br>Um octaedro triakis é um icositetraedro não regular que pode ser construído como um aumento positivo de um octaedro regular. Tal sólido também é conhecido como trisoctaedro, especialmente para mineralogistas. Embora o icositetraedro resultante não seja regular, suas faces são todas idênticas.
- <br><br><br><br><br>
+ <br>
 <hr>
 <h4>13. Tetraedro triakis</h4>
 <a href="../vr/triakis_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="tetraedro triakis"></a>
- <br><br><br><br><br>
  <br>Um tetraedro triakis é um dodecaedro não regular que pode ser construído como um aumento positivo de um tetraedro regular. Tal sólido também é conhecido como um tristetraedro, especialmente para mineralogistas. Embora o dodecaedro resultante não seja regular, suas faces são todas idênticas. 
- <br><br><br><br><br>
+ <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
