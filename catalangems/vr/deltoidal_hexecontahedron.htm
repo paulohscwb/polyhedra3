@@ -23,7 +23,7 @@
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.06;" material="metalness:0.5; roughness:0.6;">
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="2.4 2.4 2.4">
+		<a-entity position="0 0 0" scale="2.4 2.4 2.4" animation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 250000; easing: linear; loop: true">
 			<a-obj-model id="fc" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/DeltoidalHexecontahedron.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/DeltoidalHexecontahedronL.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -2.23607"></a-sphere>
@@ -92,7 +92,7 @@
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig" position="0 0 11">
-			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="autoRotate: true; autoRotateSpeed:0.05; target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		
