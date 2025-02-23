@@ -23,7 +23,7 @@
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.048;" material="metalness:0.5; roughness:0.6;">
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="3.3 3.3 3.3">
+		<a-entity position="0 0 0" scale="3.3 3.3 3.3" animation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 325000; easing: linear; loop: true">
 			<a-obj-model id="fc" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/RhombicTriacontahedron.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/RhombicTriacontahedronL.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.90451 0.0 -1.46353"></a-sphere>
