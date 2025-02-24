@@ -12,7 +12,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
-    <a-scene renderer="antialias: true; colorManagement: true; highRefreshRate: true; logarithmicDepthBuffer: true; maxCanvasWidth: 983040; maxCanvasHeight: 983040;">
+    <a-scene renderer="antialias:true; colorManagement: true; logarithmicDepthBuffer: true; maxCanvasWidth: 15360; maxCanvasHeight: 15360;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -44,7 +44,7 @@
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig" position="0 0 11">
-			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 -425 425; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 	  
