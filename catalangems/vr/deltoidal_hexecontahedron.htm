@@ -12,18 +12,18 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
-    <a-scene renderer="logarithmicDepthBuffer: true; highRefreshRate: true; antialias: true; powerPreference: high-performance; sortObjects: true; colorManagement: true;">
+    <a-scene renderer="antialias: true; colorManagement: true; highRefreshRate: true; logarithmicDepthBuffer: true; maxCanvasWidth: 30720; maxCanvasHeight: 30720;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
-			<a-mixin id="luz" light="type: directional; color: white; intensity:0.15"></a-mixin>
+			<a-mixin id="luz" light="type: directional; color: white; intensity:0.15; castShadow:true; shadowBias: -0.0001;" ></a-mixin>
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.06;" material="metalness:0.5; roughness:0.6;">
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="2.4 2.4 2.4" animation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 325000; easing: linear; loop: true">
+		<a-entity scale="2.4 2.4 2.4" animation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 325000; easing: linear; loop: true">
 			<a-obj-model id="fc" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/DeltoidalHexecontahedron.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/DeltoidalHexecontahedronL.obj" mtl="https://paulohscwb.github.io/polyhedra/catalan/vr/catalan/gems/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -2.23607"></a-sphere>
