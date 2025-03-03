@@ -44,7 +44,7 @@ Catalan polyhedra are duals of Archimedean polyhedra. They are known as Catalan 
 <br>This work shows Catalan polyhedra with gem textures, modeled for viewing in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img src="vr/salas/videos/catalangems1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de tesselação"/><img src="vr/salas/videos/catalangems2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de tesselação"/></p> 
+ <p align="center"><img src="vr/salas/videos/catalangems1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Catalan"/><img src="vr/salas/videos/catalangems2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Catalan"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
