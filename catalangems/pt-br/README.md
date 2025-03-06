@@ -9,8 +9,8 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais sólidos:</option>
 		<option disabled value="../../catalangems/pt-br/">Gemas de Catalan</option>
-		<!--<option value="../../dragon_archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
-		<option value="../../fractal_catalan/pt-br/">Fractais de Catalan</option>
+		<option value="../../dragon_archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
+		<!--<option value="../../fractal_catalan/pt-br/">Fractais de Catalan</option>
 		<option value="../../kites/pt-br/">Pipas Platônicas</option>
 		<option value="../../unicorn_platonic/pt-br/">Fractais do unicórnio de Platão</option>
 		<option value="../../dragon_catalan/pt-br/">Fractais do dragão de Catalan</option>
@@ -55,7 +55,7 @@ function urlHandler(value) {
 <hr>
 <h4>2. Icositetraedro deltoide</h4>
 <a href="../vr/deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="icositetraedro deltoide"></a>
- <br>O icositetraedro deltoide é o poliedro dual de 24 faces do pequeno rombicuboctaedro. Também é chamado de icositetraedro trapezoidal. Um icositetraedro deltoidal aparece no meio à direita como uma das "estrelas" poliédricas na xilogravura de M. C. Escher de 1948 "Estrelas"
+ <br>O icositetraedro deltoide é o poliedro dual de 24 faces do pequeno rombicuboctaedro. Também é chamado de icositetraedro trapezoidal. Um icositetraedro deltoidal aparece no meio à direita como uma das "estrelas" poliédricas na xilogravura de M. C. Escher de 1948 "Estrelas".
  <br>
 <hr>
 <h4>3. Dodecaedro disdiakis</h4>

@@ -9,8 +9,8 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More solids:</option>
 		<option disabled value="../catalangems/">Catalan gems</option>
-		<!--<option value="../dragon_archimedes/">Archimedes Dragon Fractals</option>
-		<option value="../fractal_catalan/">Catalan fractals</option>
+		<option value="../dragon_archimedes/">Archimedes Dragon Fractals</option>
+		<!--<option value="../fractal_catalan/">Catalan fractals</option>
 		<option value="../kites/">Platonic kites</option>
 		<option value="../unicorn_platonic/">Plato's Unicorn Fractals</option>
 		<option value="../dragon_catalan/">Catalan Dragon Fractals</option>

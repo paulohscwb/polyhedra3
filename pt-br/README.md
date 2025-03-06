@@ -8,8 +8,8 @@
 <br><br>Nova página: os modelos 3D dos poliedros e fractais podem ser vistos em Realidade Virtual (RV).
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../catalangems/pt-br/"><img src="../catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Gemas de Catalan</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../dragon_archimedes/pt-br/"><img src="../dragon_archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../fractal_catalan/pt-br/"><img src="../fractal_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../dragon_archimedes/pt-br/"><img src="../dragon_archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../fractal_catalan/pt-br/"><img src="../fractal_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../kites/pt-br/"><img src="../kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Pipas Platônicas</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../unicorn_platonic/pt-br/"><img src="../unicorn_platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Platão</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon_catalan/pt-br/"><img src="../dragon_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Catalan</a></h3>

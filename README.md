@@ -8,8 +8,8 @@
  <br><br>New page: the 3D models of polyhedra and fractals can be seen in Virtual Reality (VR).
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="catalangems/"><img src="catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan Gems</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="dragon_archimedes/pt-br/"><img src="dragon_archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes Dragon Fractals</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="fractal_catalan/pt-br/"><img src="fractal_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan fractals</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="dragon_archimedes/pt-br/"><img src="dragon_archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes Dragon Fractals</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="fractal_catalan/pt-br/"><img src="fractal_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan fractals</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="kites/pt-br/"><img src="kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Platonic kites</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="unicorn_platonic/pt-br/"><img src="unicorn_platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Plato's Unicorn Fractals</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="dragon_catalan/pt-br/"><img src="dragon_catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan Dragon Fractals</a></h3>
