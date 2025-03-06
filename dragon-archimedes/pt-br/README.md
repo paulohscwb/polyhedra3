@@ -9,26 +9,26 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais sólidos:</option>
 		<option value="../../catalangems/pt-br/">Gemas de Catalan</option>
-		<option disabled value="../../dragon_archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
-		<!--<option value="../../fractal_catalan/pt-br/">Fractais de Catalan</option>
+		<option disabled value="../../dragon-archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
+		<!--<option value="../../fractal-catalan/pt-br/">Fractais de Catalan</option>
 		<option value="../../kites/pt-br/">Pipas Platônicas</option>
-		<option value="../../unicorn_platonic/pt-br/">Fractais do unicórnio de Platão</option>
-		<option value="../../dragon_catalan/pt-br/">Fractais do dragão de Catalan</option>
+		<option value="../../unicorn-platonic/pt-br/">Fractais do unicórnio de Platão</option>
+		<option value="../../dragon-catalan/pt-br/">Fractais do dragão de Catalan</option>
 		<option value="../../fractalnonconvex1/pt-br/">Fractais de poliedros não convexos</option>
-		<option value="../../truncated_archimedes/pt-br/">Poliedros Arquimedianos truncados</option>
-		<option value="../../unicorn_catalan/pt-br/">Fractais do unicórnio de Catalan</option>
-		<option value="../../dragon_nonconvex/pt-br/">Fractais de dragão de poliedros não convexos</option>
+		<option value="../../truncated-archimedes/pt-br/">Poliedros Arquimedianos truncados</option>
+		<option value="../../unicorn-catalan/pt-br/">Fractais do unicórnio de Catalan</option>
+		<option value="../../dragon-nonconvex/pt-br/">Fractais de dragão de poliedros não convexos</option>
 		<option value="../../fractalnonconvex2/pt-br/">Fractais de poliedros não convexos 2</option>
-		<option value="../../unicorn_archimedes/pt-br/">Fractais do unicórnio de Arquimedes</option>
+		<option value="../../unicorn-archimedes/pt-br/">Fractais do unicórnio de Arquimedes</option>
 		<option value="../../fractalnonconvex3/pt-br/">Fractais de poliedros não convexos 3</option>
-		<option value="../../truncated_catalan/pt-br/">Poliedros de Catalan truncados</option>
-		<option value="../../unicorn_nonconvex1/pt-br/">Fractais do unicórnio de poliedros não convexos</option>
-		<option value="../../dragon_nonconvex2/pt-br/">Fractais de dragão de poliedros não convexos 2</option>
-		<option value="../../unicorn_nonconvex2/pt-br/">Fractais do unicórnio de poliedros não convexos 2</option>
+		<option value="../../truncated-catalan/pt-br/">Poliedros de Catalan truncados</option>
+		<option value="../../unicorn-nonconvex1/pt-br/">Fractais do unicórnio de poliedros não convexos</option>
+		<option value="../../dragon-nonconvex2/pt-br/">Fractais de dragão de poliedros não convexos 2</option>
+		<option value="../../unicorn-nonconvex2/pt-br/">Fractais do unicórnio de poliedros não convexos 2</option>
 		<option value="../../fractalnonconvex4/pt-br/">Fractais de poliedros não convexos 4</option>
-		<option value="../../dragon_nonconvex3/pt-br/">Fractais de dragão de poliedros não convexos 3</option>
+		<option value="../../dragon-nonconvex3/pt-br/">Fractais de dragão de poliedros não convexos 3</option>
 		<option value="../../fractalnonconvex5/pt-br/">Fractais de poliedros não convexos 5</option>
-		<option value="../../unicorn_nonconvex3/pt-br/">Fractais do unicórnio de poliedros não convexos 3</option>
+		<option value="../../unicorn-nonconvex3/pt-br/">Fractais do unicórnio de poliedros não convexos 3</option>
 		<option value="../../fractalnonconvex6/pt-br/">Fractais de poliedros não convexos 6</option>-->
 	</select>
 </form>
