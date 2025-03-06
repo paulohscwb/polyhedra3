@@ -44,7 +44,7 @@ The dragon curve belongs to the family of self-similar fractal curves, which can
 <br>This work shows Archimedean polyhedra forming dragon fractals, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img src="vr/salas/videos/archimedes1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Catalan"/><img src="vr/salas/videos/archimedes2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Catalan"/></p> 
+ <p align="center"><img src="vr/salas/videos/archimedes1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Arquimedes"/><img src="vr/salas/videos/archimedes2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Arquimedes"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->

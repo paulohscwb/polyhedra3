@@ -35,7 +35,7 @@
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../../polyhedra2/pt-br/">&#x2B50; Poliedros - segunda parte</a></h3>
 <hr>
 <h3 align="center">Realidade Virtual</h3>
-<p align="center"><img src="../catalangems/vr/salas/videos/catalangems1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../catalangems/vr/salas/videos/catalangems2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="../catalangems/vr/salas/videos/catalangems1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../dragon-archimedes/vr/salas/videos/archimedes1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">Modelos 3D</h3>
 <p align="center"><img src="../catalangems/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
