@@ -39,7 +39,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Gemas de Catalan</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Fractais do dragão de Arquimedes</h2>
   A curva de dragão pertence à família de curvas fractais autosimilares, que podem ser aproximadas por métodos recursivos. A curva de dragão é provavelmente mais comumente pensada como a forma que é gerada a partir de uma tira de papel dobrada repetidamente ao meio.
 <br>Este trabalho mostra os poliedros de Arquimedes formando fractais de dragão, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
