@@ -47,7 +47,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/archimedes1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive Archimedes"/><img src="../vr/salas/videos/archimedes2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive Archimedes"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU7g9x5hkKKNULwWAdRiCHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Icosidodecaedro</h4>
 <a href="../vr/dragon1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="fractal dragão de icosidodecaedro "></a>
  <br>Aplicando o princípio de construção da curva do dragão com o icosidodecaedro, obtemos um fractal dragão icosidodecaedro. Na primeira ordem de construção do fractal, construímos dois novos icosidodecaedros correspondentes a um poliedro original. Neste exemplo, temos representações sólidas em ordens de 0 a 10.
