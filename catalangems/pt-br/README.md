@@ -11,7 +11,8 @@
 		<option disabled value="../../catalangems/pt-br/">Gemas de Catalan</option>
 		<option value="../../dragon_archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
 		<!--<option value="../../fractal_catalan/pt-br/">Fractais de Catalan</option>
-		<option value="../../kites/pt-br/">Pipas Platônicas</option>
+		<option value="../../kites/pt-br/">Estrelas com pipas</option>
+		<option value="../../deltahedra/pt-br/">Deltaedros</option>
 		<option value="../../unicorn_platonic/pt-br/">Fractais do unicórnio de Platão</option>
 		<option value="../../dragon_catalan/pt-br/">Fractais do dragão de Catalan</option>
 		<option value="../../fractalnonconvex1/pt-br/">Fractais de poliedros não convexos</option>

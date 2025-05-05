@@ -11,7 +11,8 @@
 		<option disabled value="../catalangems/">Catalan gems</option>
 		<option value="../dragon_archimedes/">Archimedes Dragon Fractals</option>
 		<!--<option value="../fractal_catalan/">Catalan fractals</option>
-		<option value="../kites/">Platonic kites</option>
+		<option value="../kites/">Star kites</option>
+		<option value="../deltahedra/">Deltahedra</option>
 		<option value="../unicorn_platonic/">Plato's Unicorn Fractals</option>
 		<option value="../dragon_catalan/">Catalan Dragon Fractals</option>
 		<option value="../fractalnonconvex1/">Fractals of non-convex polyhedra</option>
