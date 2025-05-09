@@ -48,7 +48,7 @@ The dragon curve belongs to the family of self-similar fractal curves, which can
  <p align="center"><img src="vr/salas/videos/archimedes1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Arquimedes"/><img src="vr/salas/videos/archimedes2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Arquimedes"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU7g9x5hkKKNULwWAdRiCHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU7g9x5hkKKNULwWAdRiCHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Icosidodecahedron</h4>
 <a href="vr/dragon1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Icosidodecahedron dragon fractal"></a>
  <br>Applying the construction principle of the dragon curve with the icosidodecahedron, we obtain a icosidodecahedron dragon fractal. In the first order of construction of the fractal, we construct two new icosidodecahedron corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 10. 
