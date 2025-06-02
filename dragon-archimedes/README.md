@@ -10,8 +10,8 @@
 		<option disabled selected value>More solids:</option>
 		<option value="../catalangems/">Catalan gems</option>
 		<option disabled value="../dragon-archimedes/">Archimedes Dragon Fractals</option>
-		<!--<option value="../fractal-catalan/">Catalan fractals</option>
 		<option value="../kites/">Star kites</option>
+		<!--<option value="../fractal-catalan/">Catalan fractals</option>
 		<option value="../deltahedra/">Deltahedra</option>
 		<option value="../unicorn-platonic/">Plato's Unicorn Fractals</option>
 		<option value="../dragon-catalan/">Catalan Dragon Fractals</option>

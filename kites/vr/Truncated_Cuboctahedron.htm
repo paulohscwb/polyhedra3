@@ -1,0 +1,158 @@
+<html>
+  <head>
+    <title>Kites</title>
+    <meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.043; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/Truncated_Cuboctahedron.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/Truncated_CuboctahedronL.obj"></a-asset-item>
+			<a-asset-item id="poliw1" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/TruncatedCuboctahedronL.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity scale="3.2 3.2 3.2" rotation="-35.5 0 0">
+			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.995 0.995 0.995"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#m1"></a-obj-model>
+			<a-obj-model src="#poliw1" scale="0.43 0.43 0.43" rotation="-54.5 0 -45" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='0.4314788105445321 0 0.902123071454818'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157393695091474 -0.3736716317741047 0.9021230714548174'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9750870459761909 0.5629666440470069 -0.05957479173472133'></a-sphere>
+			<a-sphere mixin='esfera' position='0.736580467961932 0.6743792311150345 -0.05159328306743566'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9523198374710764 0.3007075993409318 -0.0515932830674361'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736715240139926 0.9101941052308615 -0.550628394013976'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4314787291425789 0.8505298296830737 -0.3007076904849412'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157393357913544 0.7259726053264743 -0.6530086640373132'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9750869795117745 0.1314880201484631 0.5506283940139671'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7365803865599788 0.176150557272343 0.6530086640373125'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9523198037532834 0.05159337421143775 0.3007076904849403'></a-sphere>
+			<a-sphere mixin='esfera' position='0.373671524013998 -0.9101941052308646 0.5506283940139671'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157393357913546 -0.7259726053264751 0.6530086640373124'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4314787291425796 -0.8505298296830735 0.3007076904849403'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9750869382160804 -0.5629668306929933 0.05957479173472133'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7365803388758186 -0.6743793721073532 0.05159328306743566'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9523197799112033 -0.3007077816289446 0.0515932830674361'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9750870046804915 0.13148783350248 0.550628394013976'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9523198136289961 0.05159319192342579 0.3007076904849411'></a-sphere>
+			<a-sphere mixin='esfera' position='0.736580420277771 0.1761504162800242 0.6530086640373132'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.0776011592e-007 -1.12593347474001 -0.0595747917347213'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157393119492712 -0.9750870127439801 -0.05159328306743566'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157394985952585 -0.9750869714482858 -0.0515932830674361'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9750870046804968 -0.1314878335024768 -0.5506283940139671'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7365804202777718 -0.1761504162800244 -0.6530086640373125'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9523198136289963 -0.05159319192342504 -0.3007076904849403'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6014153064419719 0.7787062002021412 0.550628394013976'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.520840921682511 0.7989365551682598 0.3007076904849411'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5208409455245905 0.549822147750756 0.6530086640373132'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9750869795117764 -0.1314880201484573 -0.550628394013966'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9523198037532872 -0.0515933742114304 -0.3007076904849313'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7365803865599867 -0.1761505572723353 -0.6530086640373061'></a-sphere>
+			<a-sphere mixin='esfera' position='1.077601102e-007 1.125933474740009 0.0595747917347299'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157394985952621 0.9750869714482849 0.05159328306744543'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157393119492678 0.9750870127439808 0.05159328306744154'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.4314788105445384 1.04168199629322'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157393695091565 0.3736716317741102 0.9021230714548133'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157394410353732 0.3736715904784165 0.9021230714548186'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736716317741199 -0.2157393695091516 1.041681996293216'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157394410353977 -0.373671590478418 0.9021230714548122'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4314788105445429 0 0.9021230714548127'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6014153064419703 -0.7787062002021465 -0.5506283940139701'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5208409455245902 -0.549822147750755 -0.6530086640373145'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5208409216825085 -0.7989365551682603 -0.3007076904849435'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9750870459761886 -0.5629666440470114 0.0595747917347198'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.952319837471078 -0.3007075993409281 0.05159328306743424'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.736580467961935 -0.6743792311150315 0.05159328306743499'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736716982385324 0.9101940337046196 -0.5506283940139694'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157394747531888 0.7259725640307762 -0.6530086640373151'></a-sphere>
+			<a-sphere mixin='esfera' position='0.431478891946491 0.8505297470916819 -0.3007076904849419'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6014154554977658 -0.7787060850824006 -0.5506283940139795'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5208410746106956 -0.7989364554716394 -0.300707690484944'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.520841050768614 -0.5498220480541365 -0.6530086640373165'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6014154554977736 0.7787060850824048 0.550628394013966'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5208410507686219 0.5498220480541354 0.6530086640373118'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5208410746107013 0.7989364554716382 0.300707690484939'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.4314788105445365 -1.041681996293221'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.215739441035382 -0.373671590478415 -0.9021230714548174'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157393695091477 -0.3736716317741083 -0.9021230714548161'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.373671590478412 0.2157394410353866 -1.041681996293222'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157393695091465 0.3736716317741081 -0.9021230714548167'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4314788105445299 0 -0.9021230714548192'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9750869382160778 0.5629668306929985 -0.05957479173472136'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9523197799112046 0.3007077816289414 -0.05159328306743728'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7365803388758213 0.6743793721073508 -0.05159328306743477'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736716317741162 0.2157393695091485 -1.041681996293218'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4314788105445421 0 -0.9021230714548134'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2157394410354005 0.373671590478409 -0.9021230714548153'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736716982385326 -0.9101940337046186 0.5506283940139721'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4314788919464953 -0.8505297470916824 0.3007076904849366'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2157394747531935 -0.7259725640307787 0.6530086640373111'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736716317741046 0.2157393695091367 1.041681996293225'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7259726660891531 0.850619208252108 0.143826270181507'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736715102487628 1.054020375412374 -0.1438262701815199'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7259725445638113 0.4191405366694023 0.7540294559301979'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.8382809343769923 0.7540294559301979'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7259725032681172 -0.8506193472139343 -0.143826270181507'></a-sphere>
+			<a-sphere mixin='esfera' position='1.099644215271862 0.2034009566721947 0.1438262701815199'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736715102487548 -1.054020375412378 0.1438262701815069'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.725972624793459 -0.4191403977075761 -0.7540294559301979'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7259725032681093 0.8506193472139387 0.1438262701815199'></a-sphere>
+			<a-sphere mixin='esfera' position='1.099644176337911 -0.2034011671602523 -0.1438262701815088'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736717120037514 1.054020303886138 -0.1438262701814951'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736715904784168 0.215739441035396 1.041681996293219'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.431478810544537 1.041681996293221'></a-sphere>
+			<a-sphere mixin='esfera' position='0.725972544563803 -0.4191405366694145 -0.754029455930199'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.099644215271863 -0.2034009566721982 -0.1438262701815088'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.838280934376987 -0.7540294559302032'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7259726660891374 -0.850619208252118 -0.1438262701815244'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7259726247934488 0.4191403977075939 0.7540294559301982'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736716317740944 -0.2157393695091545 -1.041681996293225'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.4314788105445337 -1.041681996293222'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.09964417633791 0.203401167160264 0.1438262701815044'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3736715904784205 -0.2157394410353797 -1.041681996293221'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3736717120037623 -1.054020303886131 0.143826270181516'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 1.943805067748043'></a-sphere>
+			<a-sphere mixin='esfera' position='1.58711027950468 0.9163183445748244 0.6479350225826718'></a-sphere>
+			<a-sphere mixin='esfera' position='1.7539682701e-007 1.832636992945879 -0.6479350225826915'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.587110104107848 0.9163186483710433 0.6479350225826802'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.7539682024e-007 -1.832636992945883 0.6479350225826803'></a-sphere>
+			<a-sphere mixin='esfera' position='1.587110104107848 -0.9163186483710493 -0.6479350225826718'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.58711027950468 -0.9163183445748184 -0.6479350225826802'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 -1.943805067748044'></a-sphere>
+			<a-sphere mixin='esfera' position='0.373671590478409 -0.2157394410353914 1.041681996293222'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 300 300 650; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="azure"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Truncated Cuboctahedron kites</span>
+		<br><span class="titulo">Cuboctaedro Truncado com pipas</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>
