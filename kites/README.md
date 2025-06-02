@@ -69,68 +69,73 @@ The polyhedra shown on this page are formed by kites, with some vertices coincid
  <br>Dodecahedral star kites.
  <br>
 <hr>
-<h4>5. Cuboctahedron</h4>
+<h4>5. Tetrahedron</h4>
+<a href="vr/tetra_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Tetrahedral star kites"></a>
+ <br>Tetrahedral star kites (also called trapezohedral tristetrahedron).
+ <br>
+<hr>
+<h4>6. Cuboctahedron</h4>
 <a href="vr/Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Truncated Cuboctahedral star kites"></a>
  <br>Cuboctahedral star kites.
  <br>
 <hr>
-<h4>6. Icosidodecahedron</h4>
+<h4>7. Icosidodecahedron</h4>
 <a href="vr/Icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Icosidodecahedral star kites"></a>
  <br>Icosidodecahedral star kites.
  <br>
 <hr>
-<h4>7. Rhombicosidodecahedron</h4>
+<h4>8. Rhombicosidodecahedron</h4>
 <a href="vr/Rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Rhombicosidodecahedral star kites"></a>
  <br>Rhombicosidodecahedral star kites.
  <br>
 <hr>
-<h4>8. Rhombicuboctahedron</h4>
+<h4>9. Rhombicuboctahedron</h4>
 <a href="vr/Rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Rhombicuboctahedral star kites"></a>
  <br>Rhombicuboctahedral star kites.
  <br>
 <hr>
-<h4>9. Snub Cube</h4>
+<h4>10. Snub Cube</h4>
 <a href="vr/Snub_Cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Snub cube star kites"></a>
  <br>Snub cube star kites. 
  <br>
 <hr>
-<h4>10. Snub Dodecahedron</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>11. Snub Dodecahedron</h4>
 <a href="vr/Snub_Dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Dodecahedron snub star kites"></a>
  <br>Dodecahedron snub star kites.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Truncated Cube</h4>
+<h4>12. Truncated Cube</h4>
 <a href="vr/Truncated_Cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Truncated cube star kites"></a>
  <br>Truncated cube star kites.
  <br>
 <hr>
-<h4>12. Truncated Cuboctahedron</h4>
+<h4>13. Truncated Cuboctahedron</h4>
 <a href="vr/Truncated_Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Truncated Cuboctahedron star kites"></a>
  <br>Truncated cuboctahedron star kites.
  <br>
 <hr>
-<h4>13. Truncated Dodecahedron</h4>
+<h4>14. Truncated Dodecahedron</h4>
 <a href="vr/Truncated_Dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Truncated Dodecahedron star kites"></a>
  <br>Truncated dodecahedron star kites.
  <br>
 <hr>
-<h4>14. Truncated Icosahedron</h4>
+<h4>15. Truncated Icosahedron</h4>
 <a href="vr/Truncated_Icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Truncated Icosahedron star kites"></a>
  <br>Truncated icosahedron star kites.
  <br>
 <hr>
-<h4>15. Truncated Icosidodecahedron</h4>
+<h4>16. Truncated Icosidodecahedron</h4>
 <a href="vr/Truncated_Icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Truncated Icosidodecahedron star kites"></a>
  <br>Truncated icosidodecahedron star kites.
  <br>
 <hr>
-<h4>16. Truncated Octahedron</h4>
+<h4>17. Truncated Octahedron</h4>
 <a href="vr/Truncated_Octahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Truncated octahedron star kites"></a>
  <br>Truncated octahedron star kites.
  <br>
 <hr>
-<h4>17. Truncated Tetrahedron</h4>
+<h4>18. Truncated Tetrahedron</h4>
 <a href="vr/Truncated_Tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Truncated Tetrahedron star kites"></a>
  <br>Truncated tetrahedron star kites.
  <br>

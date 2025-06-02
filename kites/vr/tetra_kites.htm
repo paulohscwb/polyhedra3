@@ -15,46 +15,32 @@
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
-			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.1533; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.15; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
 			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
-			<a-asset-item id="poli" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/cubo_kites.obj"></a-asset-item>
-			<a-asset-item id="poliw" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/cubo_kitesL.obj"></a-asset-item>
-			<a-asset-item id="poliw1" src="https://paulohscwb.github.io/polyhedra/platonic/vr/outros/CubeL.obj"></a-asset-item>
+			<a-asset-item id="poli" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/TrapezohedralTristetrahedron_n.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/TrapezohedralTristetrahedron_nL.obj"></a-asset-item>
 		</a-assets>
 		
-		<a-entity rotation="0 0 0" scale="0.9 0.9 0.9">
+		<a-entity rotation="0 0 0" scale="1 1 1">
 			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
 			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.995 0.995 0.995"></a-obj-model>
 			<a-obj-model id="ar" src="#poliw" mtl="#m1"></a-obj-model>
-			<a-obj-model src="#poliw1" scale="8 8 8" mtl="#material"></a-obj-model>
-			<!--<a-box scale="8 8 8" material="wireframe: true; color:lightgreen"></a-box>-->
-			<a-sphere mixin='esfera' position='4 -4 4'></a-sphere>
-			<a-sphere mixin='esfera' position='-4 -4 4'></a-sphere>
-			<a-sphere mixin='esfera' position='-4 -4 -4'></a-sphere>
-			<a-sphere mixin='esfera' position='4 -4 -4'></a-sphere>
-			<a-sphere mixin='esfera' position='4 4 4'></a-sphere>
-			<a-sphere mixin='esfera' position='-4 4 4'></a-sphere>
-			<a-sphere mixin='esfera' position='-4 4 -4'></a-sphere>
-			<a-sphere mixin='esfera' position='4 4 -4'></a-sphere>
-			<a-sphere mixin='esfera' position='1.79 0 1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='-1.79 0 1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='-1.79 0 -1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='1.79 0 -1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='1.79 1.79 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 1.79 1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='-1.79 1.79 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 1.79 -1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='1.79 -1.79 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 -1.79 1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='-1.79 -1.79 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 -1.79 -1.79'></a-sphere>
-			<a-sphere mixin='esfera' position='1.15 0 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 0 1.15'></a-sphere>
-			<a-sphere mixin='esfera' position='-1.15 0 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 0 -1.15'></a-sphere>
-			<a-sphere mixin='esfera' position='0 1.15 0'></a-sphere>
-			<a-sphere mixin='esfera' position='0 -1.15 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -3.59 -6'></a-sphere>
+			<a-sphere mixin='esfera' position='-5.2 -3.59 3'></a-sphere>
+			<a-sphere mixin='esfera' position='5.2 -3.59 3'></a-sphere>
+			<a-sphere mixin='esfera' position='0 4.9 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.81 0 1.04'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -2.94 2.08'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -1.02 1.26'></a-sphere>
+			<a-sphere mixin='esfera' position='1.8 0 1.04'></a-sphere>
+			<a-sphere mixin='esfera' position='1.09 -1.02 -0.63'></a-sphere>
+			<a-sphere mixin='esfera' position='1.80 -2.94 -1.04'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 -2.08'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.09 -1.02 -0.63'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.81 -2.94 -1.04'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -2.81 0'></a-sphere>
+			<a-entity line="start: 0 -3.59 -6; end: -5.2 -3.59 3; color: silver" line__1="start: 0 -3.59 -6; end: 5.2 -3.59 3; color: silver" line__2="start: 0 -3.59 -6; end: 0 4.9 0; color: silver" line__3="start: -5.2 -3.59 3; end: 5.2 -3.59 3; color: silver" line__4="start: 5.2 -3.59 3; end: 0 4.9 0; color: silver" line__5="start: -5.2 -3.59 3; end: 0 4.9 0; color: silver"></a-entity>
 		</a-entity>
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
@@ -70,8 +56,8 @@
 		<a-sky color="azure"></a-sky>
     </a-scene>
 	<div class="box">
-		<span class="titulo">Cube kites</span>
-		<br><span class="titulo">Cubo com pipas</span>
+		<span class="titulo">Tetrahedron kites</span>
+		<br><span class="titulo">Tetraedro com pipas</span>
 		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
 		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
 		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices

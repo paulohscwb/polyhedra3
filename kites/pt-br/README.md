@@ -69,68 +69,73 @@ function urlHandler(value) {
  <br>Estrela dodecaédrica com pipas.
  <br>
 <hr>
-<h4>5. Cuboctaedro</h4>
+<h4>5. Tetraedro</h4>
+<a href="../vr/tetra_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Estrela tetraédrica com pipas"></a>
+ <br>Estrela tetraédrica com pipas (também chamado de tristetraedro trapezoédrico).
+ <br>
+<hr>
+<h4>6. Cuboctaedro</h4>
 <a href="../vr/Cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Estrela cuboctaédrica com pipas"></a>
  <br>Estrela cuboctaédrica com pipas.
  <br>
 <hr>
-<h4>6. Icosidodecaedro</h4>
+<h4>7. Icosidodecaedro</h4>
 <a href="../vr/Icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Estrela icosidodecaédrica com pipas"></a>
  <br>Estrela icosidodecaédrica com pipas.
  <br>
 <hr>
-<h4>7. Rombicosidodecaedro</h4>
+<h4>8. Rombicosidodecaedro</h4>
 <a href="../vr/Rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Estrela rombicosidodecaédrica com pipas"></a>
  <br>Estrela rombicosidodecaédrica com pipas.
  <br>
 <hr>
-<h4>8. Rombicuboctaedro</h4>
+<h4>9. Rombicuboctaedro</h4>
 <a href="../vr/Rhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Estrela rombicuboctaédrica com pipas"></a>
  <br>Estrela rombicuboctaédrica com pipas.
  <br>
 <hr>
-<h4>9. Cubo snub</h4>
+<h4>10. Cubo snub</h4>
 <a href="../vr/Snub_Cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Estrela de cubo snub com pipas"></a>
  <br>Estrela de cubo snub com pipas.
  <br>
 <hr>
-<h4>10. Dodecaedro Snub</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>11. Dodecaedro Snub</h4>
 <a href="../vr/Snub_Dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Estrela de dodecaedro snub com pipas"></a>
  <br>Estrela de dodecaedro snub com pipas.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>11. Cubo truncado</h4>
+<h4>12 Cubo truncado</h4>
 <a href="../vr/Truncated_Cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Estrela de cubo truncado com pipas"></a>
  <br>Estrela de cubo truncado com pipas.
  <br>
 <hr>
-<h4>12. Cuboctaedro truncado</h4>
+<h4>13. Cuboctaedro truncado</h4>
 <a href="../vr/Truncated_Cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Estrela de cuboctaedro truncado com pipas"></a>
  <br>Estrela de cuboctaedro truncado com pipas.
  <br>
 <hr>
-<h4>13. Dodecaedro truncado</h4>
+<h4>14. Dodecaedro truncado</h4>
 <a href="../vr/Truncated_Dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Estrela de Dodecaedro truncado com pipas"></a>
  <br>Estrela de dodecaedro truncado com pipas.
  <br>
 <hr>
-<h4>14. Icosaedro truncado</h4>
+<h4>15. Icosaedro truncado</h4>
 <a href="../vr/Truncated_Icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Estrela de Icosaedro truncado com pipas"></a>
  <br>Estrela de icosaedro truncado com pipas.
  <br>
 <hr>
-<h4>15. Icosidodecaedro truncado</h4>
+<h4>16. Icosidodecaedro truncado</h4>
 <a href="../vr/Truncated_Icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Estrela de Icosidodecaedro truncado com pipas"></a>
  <br>Estrela de icosidodecaedro truncado com pipas.
  <br>
 <hr>
-<h4>16. Octaedro truncado</h4>
+<h4>17. Octaedro truncado</h4>
 <a href="../vr/Truncated_Octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Estrela de Octaedro truncado com pipas"></a>
  <br>Estrela de octaedro truncado com pipas.
  <br>
 <hr>
-<h4>17. Tetraedro truncado</h4>
+<h4>18. Tetraedro truncado</h4>
 <a href="../vr/Truncated_Tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Estrela de Tetraedro truncado com pipas"></a>
  <br>Estrela de tetraedro truncado com pipas.
  <br>
