@@ -75,7 +75,7 @@ The polyhedra shown on this page are formed by kites, with some vertices coincid
  <br>
 <hr>
 <h4>6. Cuboctahedron</h4>
-<a href="vr/Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Truncated Cuboctahedral star kites"></a>
+<a href="vr/Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Cuboctahedral star kites"></a>
  <br>Cuboctahedral star kites.
  <br>
 <hr>
