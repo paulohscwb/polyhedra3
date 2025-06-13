@@ -49,150 +49,114 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/kites1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR star kites"/><img src="../vr/salas/videos/kites2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR star kites"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU7g9x5hkKKNULwWAdRiCHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXE37-GzEiObaiU6cwZwb6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Cubo</h4>
 <a href="../vr/cube_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Estrela cúbica com pipas"></a>
  <br>Construímos uma Estrela com pipas com alguns vértices coincidentes com os vértices do cubo: Estrela cúbica com pipas.
- <br>faces: 24
- <br>arestas: 36
- <br>vértices: 26
+ <br><b>faces</b>: 24 | <b>arestas</b>: 36 | <b>vértices</b>: 26
  <br>
 <hr>
 <h4>2. Octaedro</h4>
 <a href="../vr/octa_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Estrela octaédrica com pipas"></a>
  <br>Estrela octaédrica com pipas.
- <br>faces: 24
- <br>arestas: 36
- <br>vértices: 26
+ <br><b>faces</b>: 24 | <b>arestas</b>: 36 | <b>vértices</b>: 26
  <br>
 <hr>
 <h4>3. Icosaedro</h4>
 <a href="../vr/ico_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Estrela icosaédrica com pipas"></a>
  <br>Estrela icosaédrica com pipas.
- <br>faces: 60
- <br>arestas: 90
- <br>vértices: 62
+ <br><b>faces</b>: 60 | <b>arestas</b>: 90 | <b>vértices</b>: 62
  <br>
 <hr>
 <h4>4. Dodecaedro</h4>
 <a href="../vr/dode_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Estrela dodecaédrica com pipas"></a>
  <br>Estrela dodecaédrica com pipas.
- <br>faces: 60
- <br>arestas: 90
- <br>vértices: 62
+ <br><b>faces</b>: 60 | <b>arestas</b>: 90 | <b>vértices</b>: 62
  <br>
 <hr>
 <h4>5. Tetraedro</h4>
 <a href="../vr/tetra_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Estrela tetraédrica com pipas"></a>
  <br>Estrela tetraédrica com pipas (também chamado de tristetraedro trapezoédrico).
- <br>faces: 12
- <br>arestas: 18
- <br>vértices: 14
+ <br><b>faces</b>: 12 | <b>arestas</b>: 18 | <b>vértices</b>: 14
  <br>
 <hr>
 <h4>6. Cuboctaedro</h4>
 <a href="../vr/Cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Estrela cuboctaédrica com pipas"></a>
  <br>Estrela cuboctaédrica com pipas.
- <br>faces: 48
- <br>arestas: 72
- <br>vértices: 50
+ <br><b>faces</b>: 48 | <b>arestas</b>: 72 | <b>vértices</b>: 50
  <br>
 <hr>
 <h4>7. Icosidodecaedro</h4>
 <a href="../vr/Icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Estrela icosidodecaédrica com pipas"></a>
  <br>Estrela icosidodecaédrica com pipas.
- <br>faces: 120
- <br>arestas: 180
- <br>vértices: 122
+ <br><b>faces</b>: 120 | <b>arestas</b>: 180 | <b>vértices</b>: 122
  <br>
 <hr>
 <h4>8. Rombicosidodecaedro</h4>
 <a href="../vr/Rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Estrela rombicosidodecaédrica com pipas"></a>
  <br>Estrela rombicosidodecaédrica com pipas.
- <br>faces: 240
- <br>arestas: 360
- <br>vértices: 242
+ <br><b>faces</b>: 240 | <b>arestas</b>: 360 | <b>vértices</b>: 242
  <br>
 <hr>
 <h4>9. Rombicuboctaedro</h4>
 <a href="../vr/Rhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Estrela rombicuboctaédrica com pipas"></a>
  <br>Estrela rombicuboctaédrica com pipas.
- <br>faces: 96
- <br>arestas: 144
- <br>vértices: 98
+ <br><b>faces</b>: 96 | <b>arestas</b>: 144 | <b>vértices</b>: 98
  <br>
 <hr>
 <h4>10. Cubo snub</h4>
 <a href="../vr/Snub_Cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Estrela de cubo snub com pipas"></a>
  <br>Estrela de cubo snub com pipas.
- <br>faces: 120
- <br>arestas: 180
- <br>vértices: 122
+ <br><b>faces</b>: 120 | <b>arestas</b>: 180 | <b>vértices</b>: 122
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Dodecaedro Snub</h4>
 <a href="../vr/Snub_Dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Estrela de dodecaedro snub com pipas"></a>
  <br>Estrela de dodecaedro snub com pipas.
- <br>faces: 300
- <br>arestas: 450
- <br>vértices: 302
+ <br><b>faces</b>: 300 | <b>arestas</b>: 450 | <b>vértices</b>: 302
  <br>
 <hr>
 <h4>12 Cubo truncado</h4>
 <a href="../vr/Truncated_Cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Estrela de cubo truncado com pipas"></a>
  <br>Estrela de cubo truncado com pipas.
- <br>faces: 72
- <br>arestas: 108
- <br>vértices: 74
+ <br><b>faces</b>: 72 | <b>arestas</b>: 108 | <b>vértices</b>: 74
  <br>
 <hr>
 <h4>13. Cuboctaedro truncado</h4>
 <a href="../vr/Truncated_Cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Estrela de cuboctaedro truncado com pipas"></a>
  <br>Estrela de cuboctaedro truncado com pipas.
- <br>faces: 144
- <br>arestas: 216
- <br>vértices: 146
+ <br><b>faces</b>: 144 | <b>arestas</b>: 216 | <b>vértices</b>: 146
  <br>
 <hr>
 <h4>14. Dodecaedro truncado</h4>
 <a href="../vr/Truncated_Dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Estrela de Dodecaedro truncado com pipas"></a>
  <br>Estrela de dodecaedro truncado com pipas.
- <br>faces: 180
- <br>arestas: 270
- <br>vértices: 182
+ <br><b>faces</b>: 180 | <b>arestas</b>: 270 | <b>vértices</b>: 182
  <br>
 <hr>
 <h4>15. Icosaedro truncado</h4>
 <a href="../vr/Truncated_Icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Estrela de Icosaedro truncado com pipas"></a>
  <br>Estrela de icosaedro truncado com pipas.
- <br>faces: 180
- <br>arestas: 270
- <br>vértices: 182
+ <br><b>faces</b>: 180 | <b>arestas</b>: 270 | <b>vértices</b>: 182
  <br>
 <hr>
 <h4>16. Icosidodecaedro truncado</h4>
 <a href="../vr/Truncated_Icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Estrela de Icosidodecaedro truncado com pipas"></a>
  <br>Estrela de icosidodecaedro truncado com pipas.
- <br>faces: 360
- <br>arestas: 540
- <br>vértices: 362
+ <br><b>faces</b>: 360 | <b>arestas</b>: 540 | <b>vértices</b>: 362
  <br>
 <hr>
 <h4>17. Octaedro truncado</h4>
 <a href="../vr/Truncated_Octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Estrela de Octaedro truncado com pipas"></a>
  <br>Estrela de octaedro truncado com pipas.
- <br>faces: 72
- <br>arestas: 108
- <br>vértices: 74
+ <br><b>faces</b>: 72 | <b>arestas</b>: 108 | <b>vértices</b>: 74
  <br>
 <hr>
 <h4>18. Tetraedro truncado</h4>
 <a href="../vr/Truncated_Tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Estrela de Tetraedro truncado com pipas"></a>
  <br>Estrela de tetraedro truncado com pipas.
- <br>faces: 36
- <br>arestas: 54
- <br>vértices: 38
+ <br><b>faces</b>: 36 | <b>arestas</b>: 54 | <b>vértices</b>: 38
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
