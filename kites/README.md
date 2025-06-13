@@ -42,7 +42,8 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Star kites</h2>
 The polyhedra shown on this page are formed by kites, with some vertices coinciding with the polyhedra of Plato and Archimedes. The faces of the Stars kites are congruent, determining monohedral solids. The symmetries of faces, edges and vertices are the same as those of the respective polyhedra of Plato and Archimedes.
-<br>This work shows the Stars kites, modeled for viewing in Virtual Reality.
+<br>This work shows the Stars kites, modeled for viewing in Virtual Reality. The numbers of vertices V<sub>k</sub>, edges E<sub>k</sub> and faces F<sub>k</sub> have the following relation to the numbers of vertices V, edges E and faces F (n sides) of Archimedes and Plato polyhedra:
+<br><center>E<sub>k</sub> = 3&middot;E; V<sub>k</sub> = F + E + V; F<sub>k</sub> = n&middot;F.</center>
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
  <p align="center"><img src="vr/salas/videos/kites1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV star kites"/><img src="vr/salas/videos/kites2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV star kites"/></p> 
@@ -52,92 +53,146 @@ The polyhedra shown on this page are formed by kites, with some vertices coincid
 <h4>1. Cube</h4>
 <a href="vr/cube_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Cubic star kites"></a>
  <br>We build a Star with kites with some vertices coinciding with the vertices of the cube: Cubic star kites.
+ <br>faces: 24
+ <br>edges: 36
+ <br>vertices: 26
  <br>
 <hr>
 <h4>2. Octahedron</h4>
 <a href="vr/octa_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Octahedral star kites"></a>
  <br>Octahedral star kites.
+ <br>faces: 24
+ <br>edges: 36
+ <br>vertices: 26
  <br>
 <hr>
 <h4>3. Icosahedron</h4>
 <a href="vr/ico_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Icosahedral star kites"></a>
  <br>Icosahedral star kites.
+ <br>faces: 60
+ <br>edges: 90
+ <br>vertices: 62
  <br>
 <hr>
 <h4>4. Dodecahedron</h4>
 <a href="vr/dode_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Dodecahedral star kites"></a>
  <br>Dodecahedral star kites.
+ <br>faces: 60
+ <br>edges: 90
+ <br>vertices: 62
  <br>
 <hr>
 <h4>5. Tetrahedron</h4>
 <a href="vr/tetra_kites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Tetrahedral star kites"></a>
  <br>Tetrahedral star kites (also called trapezohedral tristetrahedron).
+ <br>faces: 12
+ <br>edges: 18
+ <br>vertices: 14
  <br>
 <hr>
 <h4>6. Cuboctahedron</h4>
 <a href="vr/Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Cuboctahedral star kites"></a>
  <br>Cuboctahedral star kites.
+ <br>faces: 48
+ <br>edges: 72
+ <br>vertices: 50
  <br>
 <hr>
 <h4>7. Icosidodecahedron</h4>
 <a href="vr/Icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Icosidodecahedral star kites"></a>
  <br>Icosidodecahedral star kites.
+ <br>faces: 120
+ <br>edges: 180
+ <br>vertices: 122
  <br>
 <hr>
 <h4>8. Rhombicosidodecahedron</h4>
 <a href="vr/Rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Rhombicosidodecahedral star kites"></a>
  <br>Rhombicosidodecahedral star kites.
+ <br>faces: 240
+ <br>edges: 360
+ <br>vertices: 242
  <br>
 <hr>
 <h4>9. Rhombicuboctahedron</h4>
 <a href="vr/Rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Rhombicuboctahedral star kites"></a>
  <br>Rhombicuboctahedral star kites.
+ <br>faces: 96
+ <br>edges: 144
+ <br>vertices: 98
  <br>
 <hr>
 <h4>10. Snub Cube</h4>
 <a href="vr/Snub_Cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Snub cube star kites"></a>
  <br>Snub cube star kites. 
+ <br>faces: 120
+ <br>edges: 180
+ <br>vertices: 122
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Snub Dodecahedron</h4>
 <a href="vr/Snub_Dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Dodecahedron snub star kites"></a>
  <br>Dodecahedron snub star kites.
+ <br>faces: 300
+ <br>edges: 450
+ <br>vertices: 302
  <br>
 <hr>
 <h4>12. Truncated Cube</h4>
 <a href="vr/Truncated_Cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Truncated cube star kites"></a>
  <br>Truncated cube star kites.
+ <br>faces: 72
+ <br>edges: 108
+ <br>vertices: 74
  <br>
 <hr>
 <h4>13. Truncated Cuboctahedron</h4>
 <a href="vr/Truncated_Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Truncated Cuboctahedron star kites"></a>
  <br>Truncated cuboctahedron star kites.
+ <br>faces: 144
+ <br>edges: 216
+ <br>vertices: 146
  <br>
 <hr>
 <h4>14. Truncated Dodecahedron</h4>
 <a href="vr/Truncated_Dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Truncated Dodecahedron star kites"></a>
  <br>Truncated dodecahedron star kites.
+ <br>faces: 180
+ <br>edges: 270
+ <br>vertices: 182
  <br>
 <hr>
 <h4>15. Truncated Icosahedron</h4>
 <a href="vr/Truncated_Icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Truncated Icosahedron star kites"></a>
  <br>Truncated icosahedron star kites.
+ <br>faces: 180
+ <br>edges: 270
+ <br>vertices: 182
  <br>
 <hr>
 <h4>16. Truncated Icosidodecahedron</h4>
 <a href="vr/Truncated_Icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Truncated Icosidodecahedron star kites"></a>
  <br>Truncated icosidodecahedron star kites.
+ <br>faces: 360
+ <br>edges: 540
+ <br>vertices: 362
  <br>
 <hr>
 <h4>17. Truncated Octahedron</h4>
 <a href="vr/Truncated_Octahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Truncated octahedron star kites"></a>
  <br>Truncated octahedron star kites.
+ <br>faces: 72
+ <br>edges: 108
+ <br>vertices: 74
  <br>
 <hr>
 <h4>18. Truncated Tetrahedron</h4>
 <a href="vr/Truncated_Tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Truncated Tetrahedron star kites"></a>
  <br>Truncated tetrahedron star kites.
+ <br>faces: 36
+ <br>edges: 54
+ <br>vertices: 38
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
