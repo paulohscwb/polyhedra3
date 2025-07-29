@@ -49,7 +49,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/kites1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR star kites"/><img src="../vr/salas/videos/kites2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR star kites"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXE37-GzEiObaiU6cwZwb6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXE37-GzEiObaiU6cwZwb6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Cubo</h4>
 <a href="../vr/cube_kites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Estrela cúbica com pipas"></a>
  <br>Construímos uma Estrela com pipas com alguns vértices coincidentes com os vértices do cubo: Estrela cúbica com pipas.
