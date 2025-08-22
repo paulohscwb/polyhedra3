@@ -10,6 +10,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../catalangems/pt-br/"><img src="../catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Gemas de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-archimedes/pt-br/"><img src="../dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../kites/pt-br/"><img src="../kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Estrelas com pipas</a></h3>
+<h3 style="margin-top:3px"><a target="-blank" href="../araucaria/pt-br/"><img src="../araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucárias com poliedros</a></h3>
 <!--<h3 style="margin-top:3px"><a target="-blank" href="../fractal-catalan/pt-br/"><img src="../fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../deltahedra/pt-br/"><img src="../deltahedra/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Deltaedros</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../unicorn-platonic/pt-br/"><img src="../unicorn-platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Platão</a></h3>
