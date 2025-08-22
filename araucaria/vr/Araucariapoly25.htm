@@ -42,21 +42,17 @@
 			<a-mixin id="p19b" mixin="fc" position="-2.93 7.66 0"></a-mixin>
 			<a-mixin id="p20b" mixin="fc" position="-2.93 -7.66 0"></a-mixin>
 			<a-mixin id="p21b" mixin="fc" scale="2.7 2.7 2.7"></a-mixin>
-			<a-mixin id="piso" scale="30 0.1 30" visible="false" position="0 -1 -11"></a-mixin>
 		</a-assets>
-		<a-entity position="0 -4.5 15">
-			<a-box mixin="piso" class="piso"></a-box>
-			<a-entity id="cameraRig" position="0 1 0">
-				<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 1100 450 1100; maxDistance: 1500;"></a-entity>
-				<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: trigger;" hand-controls="hand: right"></a-entity>
-			</a-entity>
+		<a-entity id="cameraRig" position="0 1.5 0">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 1100 450 1100; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; teleportOrigin: #head; button: trigger;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		<a-light type="point" color="yellow" intensity="1.5"></a-light>
-		<a-entity scale="2 2 2" position="0 -1 0">
+		<a-entity scale="2 2 2" position="0 -7.5 0">
 		<a-entity class="nivel0t">
-			<a-cone position="0 0.25 0" material="opacity: 0.97; metalness:0.4; roughness:0.6; color: #736154;" geometry="radiusTop:0.05; radiusBottom:0.4; height:10; segments-height:1; segments-radial:20;"></a-cone>
+			<a-cone position="0 3.75 0" material="opacity: 0.97; metalness:0.4; roughness:0.6; color: #736154;" geometry="radiusTop:0.05; radiusBottom:0.4; height:10; segments-height:1; segments-radial:20;"></a-cone>
 		</a-entity>
-		<a-entity class="g1" position="0 1.2 0">
+		<a-entity class="g1" position="0 4.7 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -64,7 +60,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g2" position="0 0.8 0" rotation="0 60 0">
+		<a-entity class="g2" position="0 4.2 0" rotation="0 60 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -72,7 +68,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g3" position="0 1.2 0" rotation="0 120 0">
+		<a-entity class="g3" position="0 4.7 0" rotation="0 120 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -80,7 +76,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g4" position="0 0.8 0" rotation="0 180 0">
+		<a-entity class="g4" position="0 4.2 0" rotation="0 180 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -88,7 +84,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g5" position="0 1.2 0" rotation="0 -120 0">
+		<a-entity class="g5" position="0 4.7 0" rotation="0 -120 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -96,7 +92,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g5a" position="0 0.8 0" rotation="0 -60 0">
+		<a-entity class="g5a" position="0 4.2 0" rotation="0 -60 0">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -104,7 +100,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g6" rotation="0 30 0" position="0 2.2 0" scale="0.95 0.95 0.95">
+		<a-entity class="g6" rotation="0 30 0" position="0 5.7 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -112,7 +108,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g7" rotation="0 90 0" position="0 2.6 0" scale="0.95 0.95 0.95">
+		<a-entity class="g7" rotation="0 90 0" position="0 6.2 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -120,7 +116,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g8" rotation="0 150 0" position="0 2.2 0" scale="0.95 0.95 0.95">
+		<a-entity class="g8" rotation="0 150 0" position="0 5.7 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -128,7 +124,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g9" rotation="0 -150 0" position="0 2.6 0" scale="0.95 0.95 0.95">
+		<a-entity class="g9" rotation="0 -150 0" position="0 6.2 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -136,7 +132,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g10" rotation="0 -90 0" position="0 2.2 0" scale="0.95 0.95 0.95">
+		<a-entity class="g10" rotation="0 -90 0" position="0 5.7 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -144,7 +140,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g10a" rotation="0 -30 0" position="0 2.6 0" scale="0.95 0.95 0.95">
+		<a-entity class="g10a" rotation="0 -30 0" position="0 6.2 0" scale="0.95 0.95 0.95">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 10 0" rotation="0 0 -90" geometry="radius:10;"></a-torus>
 			</a-entity>
@@ -152,7 +148,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g11" rotation="0 0 0" position="0 3.9 0" scale="0.9 0.9 0.9">
+		<a-entity class="g11" rotation="0 0 0" position="0 7.4 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -160,7 +156,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g12" rotation="0 60 0" position="0 3.7 0" scale="0.9 0.9 0.9">
+		<a-entity class="g12" rotation="0 60 0" position="0 7.2 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -168,7 +164,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g13" rotation="0 120 0" position="0 3.9 0" scale="0.9 0.9 0.9">
+		<a-entity class="g13" rotation="0 120 0" position="0 7.4 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -176,7 +172,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g14" rotation="0 180 0" position="0 3.7 0" scale="0.9 0.9 0.9">
+		<a-entity class="g14" rotation="0 180 0" position="0 7.2 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -184,7 +180,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g15" rotation="0 -120 0" position="0 3.9 0" scale="0.9 0.9 0.9">
+		<a-entity class="g15" rotation="0 -120 0" position="0 7.4 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -192,7 +188,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g15a" rotation="0 -60 0" position="0 3.7 0" scale="0.9 0.9 0.9">
+		<a-entity class="g15a" rotation="0 -60 0" position="0 7.2 0" scale="0.9 0.9 0.9">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 7.5 0" rotation="0 0 -90" geometry="radius:7.5;"></a-torus>
 			</a-entity>
@@ -200,7 +196,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g16" rotation="0 30 0" position="0 4.55 0" scale="0.85 0.85 0.85">
+		<a-entity class="g16" rotation="0 30 0" position="0 8.05 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -208,7 +204,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g17" rotation="0 90 0" position="0 4.75 0" scale="0.85 0.85 0.85">
+		<a-entity class="g17" rotation="0 90 0" position="0 8.25 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -216,7 +212,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g18" rotation="0 150 0" position="0 4.55 0" scale="0.85 0.85 0.85">
+		<a-entity class="g18" rotation="0 150 0" position="0 8.05 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -224,7 +220,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g19" rotation="0 -150 0" position="0 4.75 0" scale="0.85 0.85 0.85">
+		<a-entity class="g19" rotation="0 -150 0" position="0 8.25 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -232,7 +228,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g20" rotation="0 -90 0" position="0 4.55 0" scale="0.85 0.85 0.85">
+		<a-entity class="g20" rotation="0 -90 0" position="0 8.05 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -240,7 +236,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g20a" rotation="0 -30 0" position="0 4.75 0" scale="0.85 0.85 0.85">
+		<a-entity class="g20a" rotation="0 -30 0" position="0 8.25 0" scale="0.85 0.85 0.85">
 			<a-entity class="nivel0t">
 				<a-torus mixin="galho" position="0 5 0" rotation="0 0 -90" geometry="radius:5;"></a-torus>
 			</a-entity>
@@ -248,7 +244,7 @@
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
 		</a-entity>
-		<a-entity class="g21" position="0 4.8 0" scale="0.95 0.95 0.95">
+		<a-entity class="g21" position="0 8.3 0" scale="0.95 0.95 0.95">
 			<a-entity scale="0.11 0.11 0.11" position="0 0.44 0">
 				<a-entity mixin="p1b"></a-entity><a-entity mixin="p2b"></a-entity><a-entity mixin="p3b"></a-entity><a-entity mixin="p4b"></a-entity><a-entity mixin="p5b"></a-entity><a-entity mixin="p6b"></a-entity><a-entity mixin="p7b"></a-entity><a-entity mixin="p8b"></a-entity><a-entity mixin="p9b"></a-entity><a-entity mixin="p10b"></a-entity><a-entity mixin="p11b"></a-entity><a-entity mixin="p12b"></a-entity><a-entity mixin="p13b"></a-entity><a-entity mixin="p14b"></a-entity><a-entity mixin="p15b"></a-entity><a-entity mixin="p16b"></a-entity><a-entity mixin="p17b"></a-entity><a-entity mixin="p18b"></a-entity><a-entity mixin="p19b"></a-entity><a-entity mixin="p20b"></a-entity><a-entity mixin="p21b"></a-entity>
 			</a-entity>
