@@ -43,13 +43,13 @@
 			<a-mixin id="p20b" mixin="fc" position="-2.93 -7.66 0"></a-mixin>
 			<a-mixin id="p21b" mixin="fc" scale="3.67 3.67 3.67"></a-mixin>
 		</a-assets>
-		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
-		<a-entity id="cameraRig" position="0 0 11">
-			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 450 200 450; maxDistance: 1500;"></a-entity>
+		<a-box mixin="piso" class="piso" visible="false" position="0 -2.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 -2 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 1100 450 1100; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 		<a-light type="point" color="yellow" intensity="1.5"></a-light>
-		<a-entity scale="0.9 0.9 0.9" position="0 -1 0">
+		<a-entity scale="2 2 2" position="0 -1 0">
 		<a-entity class="nivel0t">
 			<a-cone position="0 0.25 0" material="opacity: 0.97; metalness:0.4; roughness:0.6; color: #736154;" geometry="radiusTop:0.05; radiusBottom:0.4; height:10; segments-height:1; segments-radial:20;"></a-cone>
 		</a-entity>
