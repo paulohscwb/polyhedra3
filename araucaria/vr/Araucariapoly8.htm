@@ -41,14 +41,12 @@
 			<a-mixin id="p18b" mixin="fc" position="2.93 -7.66 0"></a-mixin>
 			<a-mixin id="p19b" mixin="fc" position="-2.93 7.66 0"></a-mixin>
 			<a-mixin id="p20b" mixin="fc" position="-2.93 -7.66 0"></a-mixin>
-			<a-mixin id="piso" scale="30 0.1 30" visible="false"></a-mixin>
 			<a-mixin id="p21b" mixin="fc" scale="8.2 8.2 8.2"></a-mixin>
 		</a-assets>
-		<a-entity position="0 -5 11">
-			<a-box mixin="piso" class="piso" position="0 2 -11"></a-box>
-			<a-entity id="cameraRig">
+		<a-entity position="0 -9 11">
+			<a-entity id="cameraRig" position="0 2 0">
 				<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 1100 450 1100; maxDistance: 1500;"></a-entity>
-				<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: trigger;" hand-controls="hand: right"></a-entity>
+				<a-entity teleport-controls="cameraRig: #cameraRig; teleportOrigin: #head; button: trigger;" hand-controls="hand: right"></a-entity>
 			</a-entity>
 		</a-entity>
 		<a-light type="point" color="yellow" intensity="1.5"></a-light>
