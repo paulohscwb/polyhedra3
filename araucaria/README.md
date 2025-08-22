@@ -41,7 +41,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Araucárias com poliedros</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Araucaria with polyhedrons</h2>
 Also known as Brazilian pine, Araucaria is a genus of coniferous trees that includes species native to Brazil, especially in the South. Araucaria angustifolia is a large tree that can live for hundreds of years. Some characteristics of this tree are its pointed leaves and the production of pine nuts, an edible fruit vital for wildlife, the economy of local communities, and biodiversity.
 <br>This work demonstrates the modeling of Araucaria trees using Fractal Geometry and polyhedra, constructed for viewing in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
