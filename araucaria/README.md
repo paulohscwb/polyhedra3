@@ -197,6 +197,22 @@ Also known as Brazilian pine, Araucaria is a genus of coniferous trees that incl
  <br>Araucaria modeled with Small Stellated Dodecahedron.
  <br>
 <hr>
+<h4>30. Dodecahedral star kites</h4>
+<a href="vr/Araucariapoly29.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Araucaria with Dodecahedral star kites"></a>
+ <br>Araucaria modeled with Dodecahedral star kites.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Rhombicosidodecahedral star kites</h4>
+<a href="vr/Araucariapoly30.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Araucaria with Rhombicosidodecahedral star kites"></a>
+ <br>Araucaria modeled with Rhombicosidodecahedral star kites.
+ <br>
+<hr>
+<h4>32. Truncated icosahedron star kites</h4>
+<a href="vr/Araucariapoly31.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Araucaria with Truncated icosahedron star kites"></a>
+ <br>Araucaria modeled with Truncated icosahedron star kites.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Araucaria with polyhedrons: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra3/araucaria/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

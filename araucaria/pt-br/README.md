@@ -197,6 +197,22 @@ function urlHandler(value) {
  <br>Araucária modelada com Pequeno Dodecaedro Estrelado.
  <br>
 <hr>
+<h4>30. Estrela dodecaédrica com pipas</h4>
+<a href="../vr/Araucariapoly29.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Araucária com Estrela dodecaédrica com pipas"></a>
+ <br>Araucária modelada com Estrela dodecaédrica com pipas.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Estrela Rombicosidodecaédrica com pipas</h4>
+<a href="../vr/Araucariapoly30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Araucária com Estrela Rombicosidodecaédrica com pipas"></a>
+ <br>Araucária modelada com Estrela Rombicosidodecaédrica com pipas.
+ <br>
+<hr>
+<h4>32. Estrela de icosaedro truncado com pipas</h4>
+<a href="../vr/Araucariapoly31.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Araucária com Estrela de icosaedro truncado com pipas"></a>
+ <br>Araucária modelada com Estrela de icosaedro truncado com pipas.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Araucaria with polyhedrons: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra3/araucaria/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
