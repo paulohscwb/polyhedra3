@@ -49,7 +49,7 @@ Also known as Brazilian pine, Araucaria is a genus of coniferous trees that incl
  <p align="center"><img src="vr/salas/videos/araucaria1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Araucaria"/><img src="vr/salas/videos/araucaria2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Araucaria"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUtdMMxrDjXOpt-ypqIFzm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Araucaria Fractal</h4>
 <a href="vr/AraucariaFractal.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Araucaria Fractal"></a>
  <br>Araucaria modeled with Fractal Geometry using cone frustums.
