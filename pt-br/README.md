@@ -5,7 +5,8 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra3/">english version</a>
-<br><br>Nova página: os modelos 3D dos poliedros e fractais podem ser vistos em Realidade Virtual (RV).
+<div><img align="right" src="../imagens/qr.png"/>
+<br><br>Nova página: os modelos 3D dos poliedros e fractais podem ser vistos em Realidade Virtual (RV).</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../catalangems/pt-br/"><img src="../catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Gemas de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-archimedes/pt-br/"><img src="../dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
