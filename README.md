@@ -12,6 +12,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="dragon-archimedes/"><img src="dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes Dragon Fractals</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="kites/"><img src="kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Star kites</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="araucaria/"><img src="araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucaria with polyhedrons</a></h3>
+<h3 style="margin-top:3px"><a target="-blank" href="dragon-nonconvex/"><img src="dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon fractals of non-convex polyhedra</a></h3>
 <!--<h3 style="margin-top:3px"><a target="-blank" href="fractal-catalan/"><img src="fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan fractals</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="deltahedra/"><img src="deltahedra/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Deltahedra</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="unicorn-platonic/"><img src="unicorn-platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Plato's Unicorn Fractals</a></h3>
@@ -19,7 +20,6 @@
 <h3 style="margin-top:3px"><a target="-blank" href="fractalnonconvex1/"><img src="fractalnonconvex1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractals of non-convex polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="truncated-archimedes/"><img src="truncated-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Truncated Archimedean polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="unicorn-catalan/"><img src="unicorn-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan Unicorn Fractals</a></h3>
-<h3 style="margin-top:3px"><a target="-blank" href="dragon-nonconvex/"><img src="dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon fractals of non-convex polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="fractalnonconvex2/"><img src="fractalnonconvex2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractals of non-convex polyhedra 2</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="unicorn-archimedes/"><img src="unicorn-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes Unicorn Fractals</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="fractalnonconvex3/"><img src="fractalnonconvex3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractals of non-convex polyhedra 3</a></h3>

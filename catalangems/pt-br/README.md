@@ -12,6 +12,7 @@
 		<option value="../../dragon-archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
 		<option value="../../kites/pt-br/">Estrelas com pipas</option>
 		<option value="../../araucaria/pt-br/">Araucárias com poliedros</option>
+		<option value="../../dragon_nonconvex/pt-br/">Fractais de dragão de poliedros não convexos</option>
 		<!--<option value="../../fractal_catalan/pt-br/">Fractais de Catalan</option>
 		<option value="../../deltahedra/pt-br/">Deltaedros</option>
 		<option value="../../unicorn_platonic/pt-br/">Fractais do unicórnio de Platão</option>
@@ -19,7 +20,6 @@
 		<option value="../../fractalnonconvex1/pt-br/">Fractais de poliedros não convexos</option>
 		<option value="../../truncated_archimedes/pt-br/">Poliedros Arquimedianos truncados</option>
 		<option value="../../unicorn_catalan/pt-br/">Fractais do unicórnio de Catalan</option>
-		<option value="../../dragon_nonconvex/pt-br/">Fractais de dragão de poliedros não convexos</option>
 		<option value="../../fractalnonconvex2/pt-br/">Fractais de poliedros não convexos 2</option>
 		<option value="../../unicorn_archimedes/pt-br/">Fractais do unicórnio de Arquimedes</option>
 		<option value="../../fractalnonconvex3/pt-br/">Fractais de poliedros não convexos 3</option>

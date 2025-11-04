@@ -12,6 +12,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-archimedes/pt-br/"><img src="../dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../kites/pt-br/"><img src="../kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Estrelas com pipas</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../araucaria/pt-br/"><img src="../araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucárias com poliedros</a></h3>
+<h3 style="margin-top:3px"><a target="-blank" href="../dragon-nonconvex/pt-br/"><img src="../dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de dragão de poliedros não convexos</a></h3>
 <!--<h3 style="margin-top:3px"><a target="-blank" href="../fractal-catalan/pt-br/"><img src="../fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../deltahedra/pt-br/"><img src="../deltahedra/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Deltaedros</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../unicorn-platonic/pt-br/"><img src="../unicorn-platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Platão</a></h3>
@@ -19,7 +20,6 @@
 <h3 style="margin-top:3px"><a target="-blank" href="../fractalnonconvex1/pt-br/"><img src="../fractalnonconvex1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de poliedros não convexos</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../truncated-archimedes/pt-br/"><img src="../truncated-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Poliedros Arquimedianos truncados</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../unicorn-catalan/pt-br/"><img src="../unicorn-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Catalan</a></h3>
-<h3 style="margin-top:3px"><a target="-blank" href="../dragon-nonconvex/pt-br/"><img src="../dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de dragão de poliedros não convexos</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../fractalnonconvex2/pt-br/"><img src="../fractalnonconvex2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de poliedros não convexos 2</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../unicorn-archimedes/pt-br/"><img src="../unicorn-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Arquimedes</a></h3>
 <h3 style="margin-top:3px"><a target="-blank" href="../fractalnonconvex3/pt-br/"><img src="../fractalnonconvex3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de poliedros não convexos 3</a></h3>
