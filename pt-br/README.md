@@ -9,7 +9,7 @@
 <br><br>Nova página: os modelos 3D dos poliedros e fractais podem ser vistos em Realidade Virtual (RV).</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../catalangems/pt-br/"><img src="../catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Gemas de Catalan</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../dragon-archimedes/pt-br/"><img src="../dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../dragon-archimedes/pt-br/"><img src="../dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Arquimedes e Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../kites/pt-br/"><img src="../kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Estrelas com pipas</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../araucaria/pt-br/"><img src="../araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucárias com poliedros</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-nonconvex/pt-br/"><img src="../dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de dragão de poliedros não convexos</a></h3>

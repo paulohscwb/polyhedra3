@@ -9,7 +9,7 @@
  <br><br>New page: the 3D models of polyhedra and fractals can be seen in Virtual Reality (VR).</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="catalangems/"><img src="catalangems/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Catalan Gems</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="dragon-archimedes/"><img src="dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes Dragon Fractals</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="dragon-archimedes/"><img src="dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Archimedes and Catalan Dragon Fractals</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="kites/"><img src="kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Star kites</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="araucaria/"><img src="araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucaria with polyhedrons</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="dragon-nonconvex/"><img src="dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon fractals of non-convex polyhedra</a></h3>

@@ -9,7 +9,7 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais sólidos:</option>
 		<option value="../../catalangems/pt-br/">Gemas de Catalan</option>
-		<option value="../../dragon-archimedes/pt-br/">Fractais do dragão de Arquimedes</option>
+		<option value="../../dragon-archimedes/pt-br/">Fractais do dragão de Arquimedes e Catalan</option>
 		<option disabled value="../../kites/pt-br/">Estrelas com pipas</option>
 		<option value="../../araucaria/pt-br/">Araucárias com poliedros</option>
 		<option value="../../dragon-nonconvex/pt-br/">Fractais de dragão de poliedros não convexos</option>

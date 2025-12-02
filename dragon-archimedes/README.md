@@ -9,7 +9,7 @@
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More solids:</option>
 		<option value="../catalangems/">Catalan gems</option>
-		<option disabled value="../dragon-archimedes/">Archimedes Dragon Fractals</option>
+		<option disabled value="../dragon-archimedes/">Archimedes and Catalan Dragon Fractals</option>
 		<option value="../kites/">Star kites</option>
 		<option value="../araucaria/">Araucaria with polyhedrons</option>
 		<option value="../dragon-nonconvex/">Dragon fractals of non-convex polyhedra</option>
@@ -41,9 +41,9 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Archimedes Dragon Fractals</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Archimedes and Catalan Dragon Fractals</h2>
 The dragon curve belongs to the family of self-similar fractal curves, which can be approximated by recursive methods. The dragon curve is probably most commonly thought of as the shape that is generated from a strip of paper repeatedly folded in half.
-<br>This work shows Archimedean polyhedra forming dragon fractals, modeled for visualization in Virtual Reality.
+<br>This work shows Archimedean and Catalan polyhedra forming dragon fractals, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
  <p align="center"><img src="vr/salas/videos/archimedes1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Arquimedes"/><img src="vr/salas/videos/archimedes2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Arquimedes"/></p> 
@@ -85,7 +85,6 @@ The dragon curve belongs to the family of self-similar fractal curves, which can
  <br>Truncated icosahedron dragon fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>8. Truncated icosidodecahedron</h4>
 <a href="vr/dragon8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Truncated Icosidodecahedron dragon fractal"></a>
  <br>Truncated icosidodecahedron dragon fractal.
@@ -101,6 +100,7 @@ The dragon curve belongs to the family of self-similar fractal curves, which can
  <br>Truncated octahedron dragon fractal.
  <br>
 <hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Truncated cube</h4>
 <a href="vr/dragon11.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Truncated cube dragon fractal"></a>
  <br>Truncated cube dragon fractal.
@@ -116,12 +116,78 @@ The dragon curve belongs to the family of self-similar fractal curves, which can
  <br>Snub cube dragon fractal.
  <br>
 <hr>
+<h4>14. Deltoidal hexecontahedron</h4>
+<a href="vr/catalan1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Deltoidal hexecontahedron dragon fractal"></a>
+ <br>Deltoidal hexecontahedron dragon fractal.
+ <br>
+<hr>
+<h4>15. Deltoidal icositetrahedron</h4>
+<a href="vr/catalan2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Deltoidal icositetrahedron dragon fractal"></a>
+ <br>Deltoidal icositetrahedron dragon fractal.
+ <br>
+<hr>
+<h4>16. Disdyakis dodecahedron</h4>
+<a href="vr/catalan3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Disdyakis dodecahedron dragon fractal"></a>
+ <br>Disdyakis dodecahedron dragon fractal.
+ <br>
+<hr>
+<h4>17. Triakis octahedron</h4>
+<a href="vr/catalan4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Triakis octahedron dragon fractal"></a>
+ <br>Triakis octahedron dragon fractal.
+ <br>
+<hr>
+<h4>18. Triakis tetrahedron</h4>
+<a href="vr/catalan5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Triakis tetrahedron dragon fractal"></a>
+ <br>Triakis tetrahedron dragon fractal.
+ <br>
+<hr>
+<h4>19. Triakis icosahedron</h4>
+<a href="vr/catalan6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Triakis icosahedron dragon fractal"></a>
+ <br>Triakis icosahedron dragon fractal.
+ <br>
+<hr>
+<h4>20. Pentagonal icositetrahedron</h4>
+<a href="vr/catalan7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Pentagonal icositetrahedron dragon fractal"></a>
+ <br>Pentagonal icositetrahedron dragon fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Disdyakis triacontahedron</h4>
+<a href="vr/catalan8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Disdyakis triacontahedron dragon fractal"></a>
+ <br>Disdyakis triacontahedron dragon fractal.
+ <br>
+<hr>
+<h4>22. Rhombic triacontahedron</h4>
+<a href="vr/catalan9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Rhombic triacontahedron dragon fractal"></a>
+ <br>Rhombic triacontahedron dragon fractal.
+ <br>
+<hr>
+<h4>23. Pentakis dodecahedron</h4>
+<a href="vr/catalan10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Pentakis dodecahedron dragon fractal"></a>
+ <br>Pentakis dodecahedron dragon fractal.
+ <br>
+<hr>
+<h4>24. Tetrakis hexahedron</h4>
+<a href="vr/catalan11.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Tetrakis hexahedron dragon fractal"></a>
+ <br>Tetrakis hexahedron dragon fractal.
+ <br>
+<hr>
+<h4>25. Pentagonal hexecontahedron</h4>
+<a href="vr/catalan12.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Pentagonal hexecontahedron dragon fractal"></a>
+ <br>Pentagonal hexecontahedron dragon fractal.
+ <br>
+<hr>
+<h4>26. Rhombic dodecahedron</h4>
+<a href="vr/catalan13.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Rhombic dodecahedron dragon fractal"></a>
+ <br>Rhombic dodecahedron dragon fractal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archimedes dragon fractals: polyhedra and visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra3/dragon-archimedes/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Archimedes and Catalan dragon fractals: polyhedra and visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra3/dragon-archimedes/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
 <h4>How to cite this work:</h4> 
-<p>Siqueira, P.H., "Archimedes dragon fractals: polyhedra and visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/polyhedra3/dragon-archimedes/>, March 2025.</p>
+<p>Siqueira, P.H., "Archimedes and Catalan dragon fractals: polyhedra and visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/polyhedra3/dragon-archimedes/>, March 2025.</p>
 <!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
 <br><br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
