@@ -49,7 +49,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive dragon fractals"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive dragon fractals"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU7g9x5hkKKNULwWAdRiCHW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Antitoróide octogonal de íris</h4>
 <a href="../vr/dragon1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="fractal dragão de Antitoróide octogonal de íris "></a>
  <br>Aplicando o princípio de construção da curva do dragão com o antitoróide octogonal de íris, obtemos um fractal dragão antitoróide octogonal de íris. Na primeira ordem de construção do fractal, construímos dois novos antitoróides octogonal de íris correspondentes a um poliedro original. Neste exemplo, temos representações sólidas em ordens de 0 a 10.
