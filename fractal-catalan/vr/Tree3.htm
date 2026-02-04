@@ -27,12 +27,12 @@
 			<a-mixin id="p2" mixin="es" rotation="35 120 30" position="0.38 1.15 0.1"></a-mixin>
 			<a-mixin id="p3" mixin="es" rotation="35 -120 30" position="-0.1 1.15 -0.38"></a-mixin>
 			<a-mixin id="p4" mixin="fc1" position="0 1.7 0"></a-mixin>
-			<a-mixin id="piso" scale="25 0.1 25" position="0 -2 0" visible="false"></a-mixin>
+			<a-mixin id="piso" scale="25 0.1 25" position="0 -3 0" visible="false"></a-mixin>
 		</a-assets>
 		<!--<a-circle position="0 -5.28 0" rotation="-90 0 0" material="src:#grama; repeat: 2 2; metalness:0.1; roughness:0.9" scale="12 12 0"></a-circle>-->
 		<a-light type="point" color="yellow" intensity="0.7" position="0 0 0"></a-light>
 		<a-entity rotation="0 0 0" position="0 -3.61 0"><!-- mixin="anima1 anima2">-->
-			<a-entity id="cameraRig" position="0 0 8">
+			<a-entity id="cameraRig" position="0 0 3">
 				<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 450 200 450; maxDistance: 1500;"></a-entity>
 				<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 			</a-entity>
