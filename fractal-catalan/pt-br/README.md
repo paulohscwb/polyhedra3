@@ -53,7 +53,7 @@ function urlHandler(value) {
 <h4>1. Hexecontaedro deltoidal</h4>
 <a href="../vr/DeltoidalHexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="fractal de Hexecontaedro deltoidal"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do hexecontaedro deltoidal, obtemos um fractal do hexecontaedro deltoidal. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -95,7 +95,7 @@ function urlHandler(value) {
 <h4>2. Icositetraedro deltoidal</h4>
 <a href="../vr/DeltoidalIcositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="fractal de Icositetraedro deltoidal"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do icositetraedro deltoidal, obtemos um fractal do icositetraedro deltoidal. Na primeira ordem de construção do fractal, construímos um novo sólido em 6 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -144,7 +144,7 @@ function urlHandler(value) {
 <h4>3. Dodecaedro disdiakis</h4>
 <a href="../vr/DisdyakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="fractal de Dodecaedro disdiakis"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do dodecaedro disdiakis, obtemos um fractal do dodecaedro disdiakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 6 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -193,7 +193,7 @@ function urlHandler(value) {
 <h4>4. Triacontaedro disdiakis</h4>
 <a href="../vr/DisdyakisTriacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="fractal de Triacontaedro disdiakis"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do triacontaedro disdiakis, obtemos um fractal do triacontaedro disdiakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -235,7 +235,7 @@ function urlHandler(value) {
 <h4>5. Hexecontaedro pentagonal</h4>
 <a href="../vr/PentagonalHexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="fractal de Hexecontaedro pentagonal"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do hexecontaedro pentagonal, obtemos um fractal do hexecontaedro pentagonal. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -277,7 +277,7 @@ function urlHandler(value) {
 <h4>6. Icositetraedro pentagonal</h4>
 <a href="../vr/PentagonalIcositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="fractal do Icositetraedro Pentagonal"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do icositetraedro pentagonal, obtemos um fractal do icositetraedro pentagonal. Na primeira ordem de construção do fractal, construímos um novo sólido em 8 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -319,7 +319,7 @@ function urlHandler(value) {
 <h4>7. Dodecaedro pentakis</h4>
 <a href="../vr/PentakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="fractal de Dodecaedro pentakis"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do dodecaedro pentakis, obtemos um fractal do dodecaedro pentakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -361,7 +361,7 @@ function urlHandler(value) {
 <h4>8. Dodecaedro rômbico</h4>
 <a href="../vr/RhombicDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="fractal de Dodecaedro rômbico"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do dodecaedro rômbico, obtemos um fractal do dodecaedro rômbico. Na primeira ordem de construção do fractal, construímos um novo sólido em 6 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -410,7 +410,7 @@ function urlHandler(value) {
 <h4>9. Rombicosidodecaedro de Arquimedes</h4>
 <a href="../vr/Rhombicosidodecahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="fractal de Rombicosidodecaedro"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do rombicosidodecaedro, obtemos um fractal do rombicosidodecaedro. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -452,7 +452,7 @@ function urlHandler(value) {
 <h4>10. Triacontaedro rômbico</h4>
 <a href="../vr/RhombicTriacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="fractal de Triacontaedro rômbico"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do triacontaedro rômbico, obtemos um fractal do triacontaedro rômbico. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -495,7 +495,7 @@ function urlHandler(value) {
 <h4>11. Dodecaedro snub de Arquimedes</h4>
 <a href="../vr/SnubDodecahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="fractal dragão de dodecaedro snub"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do dodecaedro snub, obtemos um fractal do dodecaedro snub. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -606,7 +606,7 @@ function urlHandler(value) {
 <h4>26. Icosaedro triakis</h4>
 <a href="../vr/TriakisIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="fractal de Icosaedro triakis"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do icosaedro triakis, obtemos um fractal do icosaedro triakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -648,7 +648,7 @@ function urlHandler(value) {
 <h4>27. Octaedro triakis</h4>
 <a href="../vr/TriakisOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="fractal de Octaedro triakis"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do octaedro triakis, obtemos um fractal do octaedro triakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 6 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -697,7 +697,7 @@ function urlHandler(value) {
 <h4>28. Tetraedro triakis</h4>
 <a href="../vr/TriakisTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="fractal dragão de Cuboctaedro cubitruncado"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do tetraedro triakis, obtemos um fractal do tetraedro triakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 4 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -746,7 +746,7 @@ function urlHandler(value) {
 <h4>29. Icosaedro truncado de Arquimedes</h4>
 <a href="../vr/TruncatedIcosahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="fractal de Icosaedro truncado"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do icosaedro truncado, obtemos um fractal do icosaedro truncado. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
@@ -788,7 +788,7 @@ function urlHandler(value) {
 <h4>30. Icosidodecaedro truncado de Arquimedes</h4>
 <a href="../vr/TruncatedIcosidodecahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="fractal de Icosidodecaedro truncado"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do icosidodecaedro truncado, obtemos um fractal do icosidodecaedro truncado. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
- <table align="center">
+ <table margin="auto">
 	<tr>
 		<th>ordem</th>
 		<th>poliedros</th>
