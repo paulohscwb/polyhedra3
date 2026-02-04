@@ -13,8 +13,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../kites/pt-br/"><img src="../kites/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Estrelas com pipas</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../araucaria/pt-br/"><img src="../araucaria/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Araucárias com poliedros</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-nonconvex/pt-br/"><img src="../dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de dragão de poliedros não convexos</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../fractal-catalan/pt-br/"><img src="../fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../deltahedra/pt-br/"><img src="../deltahedra/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Deltaedros</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../fractal-catalan/pt-br/"><img src="../fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../deltahedra/pt-br/"><img src="../deltahedra/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Deltaedros</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../unicorn-platonic/pt-br/"><img src="../unicorn-platonic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do unicórnio de Platão</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragon-catalan/pt-br/"><img src="../dragon-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../fractalnonconvex1/pt-br/"><img src="../fractalnonconvex1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de poliedros não convexos</a></h3>
