@@ -46,7 +46,7 @@ function urlHandler(value) {
 <br>This work shows Catalan and some Archimedean polyhedra forming fractals, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img src="vr/salas/videos/catalan1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de fractais"/><img src="vr/salas/videos/catalan2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
+ <p align="center"><img src="vr/salas/videos/fractal_catalan1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
