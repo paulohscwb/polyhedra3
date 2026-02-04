@@ -53,7 +53,7 @@ function urlHandler(value) {
 <h4>1. Deltoidal hexecontahedron</h4>
 <a href="vr/DeltoidalHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Deltoidal Hexecontahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the deltoidal hexecontahedron, we obtain a deltoidal hexecontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -89,13 +89,13 @@ function urlHandler(value) {
 		<td>1111320</td>
 		<td>574182</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>2. Deltoidal icositetrahedron</h4>
 <a href="vr/DeltoidalIcositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Deltoidal icositetrahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the deltoidal icositetrahedron, we obtain a deltoidal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -138,12 +138,12 @@ function urlHandler(value) {
 		<td>62208</td>
 		<td>33696</td>
 	</tr>
- </table>
+ </table></center>
 <hr>
 <h4>3. Disdyakis dodecahedron</h4>
 <a href="vr/DisdyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Disdyakis dodecahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the disdyakis dodecahedron, we obtain a disdyakis dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -186,13 +186,13 @@ function urlHandler(value) {
 		<td>93312</td>
 		<td>33696</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>4. Disdyakis triacontahedron</h4>
 <a href="vr/DisdyakisTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Disdyakis triacontahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the disdyakis triacontahedron, we obtain a disdyakis triacontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -228,13 +228,13 @@ function urlHandler(value) {
 		<td>1666980</td>
 		<td>574182</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>5. Pentagonal hexecontahedron</h4>
 <a href="vr/PentagonalHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Pentagonal hexecontahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the pentagonal hexecontahedron, we obtain a pentagonal hexecontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -270,13 +270,13 @@ function urlHandler(value) {
 		<td>1389150</td>
 		<td>852012</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>6. Pentagonal icositetrahedron</h4>
 <a href="vr/PentagonalIcositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Pentagonal icositetrahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the pentagonal icositetrahedron, we obtain a pentagonal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 8 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -312,13 +312,13 @@ function urlHandler(value) {
 		<td>30720</td>
 		<td>19456</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>7. Pentakis dodecahedron</h4>
 <a href="vr/PentakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Pentakis dodecahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the pentakis dodecahedron, we obtain a pentakis dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -354,13 +354,13 @@ function urlHandler(value) {
 		<td>833490</td>
 		<td>296352</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>8. Rhombic dodecahedron</h4>
 <a href="vr/RhombicDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Rhombic Dodecahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the rhombic dodecahedron, we obtain a rhombic dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -403,13 +403,13 @@ function urlHandler(value) {
 		<td>31104</td>
 		<td>18144</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>9. Archimedean rhombicosidodecahedron</h4>
 <a href="vr/Rhombicosidodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Rhombicosidodecahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the rhombicosidodecahedron, we obtain a rhombicosidodecahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -445,13 +445,13 @@ function urlHandler(value) {
 		<td>1111320</td>
 		<td>555660</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>10. Rhombic triacontahedron</h4>
 <a href="vr/RhombicTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Great triakis icosahedron dragon fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the rhombic triacontahedron, we obtain a rhombic triacontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -487,14 +487,14 @@ function urlHandler(value) {
 		<td>555660</td>
 		<td>296352</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Archimedean snub dodecahedron</h4>
 <a href="vr/SnubDodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Great triakis octahedron dragon fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the snub dodecahedron, we obtain a snub dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -530,7 +530,7 @@ function urlHandler(value) {
 		<td>1389150</td>
 		<td>555660</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>12. Tetrakis hexahedron - Menger sponge</h4>
@@ -603,7 +603,7 @@ function urlHandler(value) {
 <h4>26. Triakis icosahedron</h4>
 <a href="vr/TriakisIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Triakis Icosahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the triakis icosahedron, we obtain a triakis icosahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -639,13 +639,13 @@ function urlHandler(value) {
 		<td>833490</td>
 		<td>296352</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>27. Triakis octahedron</h4>
 <a href="vr/TriakisOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Triakis octahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the triakis octahedron, we obtain a triakis octahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -688,13 +688,13 @@ function urlHandler(value) {
 		<td>46656</td>
 		<td>18144</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>28. Triakis tetrahedron</h4>
 <a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Triakis tetrahedron fractal"></a>
  <br>Applying the construction principle of the Sierpinski curve to faces of the triakis tetrahedron, we obtain a triakis tetrahedron fractal. In the first order of fractal construction, we construct a new solid at 4 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -737,13 +737,13 @@ function urlHandler(value) {
 		<td>4608</td>
 		<td>2048</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>29. Archimedean truncated icosahedron</h4>
 <a href="vr/TruncatedIcosahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="truncated icosahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the truncated icosahedron, we obtain a truncated icosahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -779,13 +779,13 @@ function urlHandler(value) {
 		<td>833490</td>
 		<td>555660</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <h4>30. Archimedean truncated icosidodecahedron</h4>
 <a href="vr/TruncatedIcosidodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="truncated icosidodecahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the truncated icosidodecahedron, we obtain a truncated icosidodecahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
- <table style="margin-left: auto; margin-right: auto">
+ <center><table>
 	<tr>
 		<th>order</th>
 		<th>polyhedra</th>
@@ -821,7 +821,7 @@ function urlHandler(value) {
 		<td>1666980</td>
 		<td>1111320</td>
 	</tr>
- </table>
+ </table></center>
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
