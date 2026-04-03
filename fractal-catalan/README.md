@@ -49,7 +49,7 @@ function urlHandler(value) {
  <p align="center"><img src="vr/salas/videos/fractal_catalan1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXeqxH6Rj2MUPNbI3lmVSnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Deltoidal hexecontahedron</h4>
 <a href="vr/DeltoidalHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Deltoidal Hexecontahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the deltoidal hexecontahedron, we obtain a deltoidal hexecontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
