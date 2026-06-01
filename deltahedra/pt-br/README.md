@@ -148,7 +148,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>17. Pequeno icosicosidodecaedro snub aumentado</h4>
-<a href="../vr/17_Dodecaugmented_Seside.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Pequeno icosicosidodecaedro snub aumentad"></a>
+<a href="../vr/17_Dodecaugmented_Seside.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Pequeno icosicosidodecaedro snub aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de pequeno icosicosidodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
  <br><b>faces:</b> 160  |  <b>arestas:</b> 240  |  <b>vértices:</b> 82
  <br>
