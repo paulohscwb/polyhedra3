@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Deltahedra</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ed; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.021; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/18_Tetraugmented_Gike.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/18_Tetraugmented_GikeL.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity scale="6.5 6.5 6.5">
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='-0.5001951487056686 0.2883368629652601 -0.110264089708268'></a-sphere>
+			<a-sphere mixin='esfera' position='0.00024135845113366 -0.356822008144303 0.4670861794813578'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3088962444567774 -0.1786200266222516 -0.4670861794813578'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3091376029079117 0.1782019815220512 0.4670861794813578'></a-sphere>
+			<a-sphere mixin='esfera' position='0.00039052617740634 -0.5773501371114739 -0.1102640897082683'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3088962444567774 0.1786200266222515 0.4670861794813578'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3091376029079109 -0.1782019815220517 -0.4670861794813578'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.00039052617740706 0.5773501371114742 0.1102640897082674'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5001951487056683 -0.2883368629652603 0.1102640897082683'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.00024135845113391 0.3568220081443029 -0.4670861794813574'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.499804622528262 -0.2890132741462141 0.1102640897082677'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5355326425260534 -0.6904045371457538 -0.3089202235453311'></a-sphere>
+			<a-sphere mixin='esfera' position='0.330141546793233 0.8089871415562495 -0.3089202235453314'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8656741893192868 -0.1185826044104956 -0.3089202235453316'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 0.926760670635994'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4998046225282621 0.289013274146214 -0.1102640897082679'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 750; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 5 -1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Augmented great icosahedron</span>
+		<br><span class="titulo">Grande icosaedro aumentado</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>

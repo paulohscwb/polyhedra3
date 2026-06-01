@@ -1,0 +1,83 @@
+<html>
+  <head>
+    <title>Deltahedra</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ed; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0394; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/08_Dodecaugmented_Dodecahedron.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/08_Dodecaugmented_DodecahedronL.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity scale="3.5 3.5 3.5">
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='0.8090169973829899 -0.2628655468017672 1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4999999921248458 0.6881909659572216 1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5000000078751543 0.6881909545139523 1.113516364411609'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8090169913669056 -0.262865565317367 1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.309016989507835 -0.4253254191554559 0.2628655560595687'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8090169816326809 -1.113516373669408 -0.2628655560595646'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -1.376381920471175 0.2628655560595681'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8090170071172151 -1.113516355153809 -0.2628655560595656'></a-sphere>
+			<a-sphere mixin='esfera' position='1.309016999242061 -0.4253253891965876 0.2628655560595681'></a-sphere>
+			<a-sphere mixin='esfera' position='1.309016989507835 0.425325419155456 -0.2628655560595649'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8090169816326815 1.113516373669406 0.2628655560595681'></a-sphere>
+			<a-sphere mixin='esfera' position='0 1.376381920471175 -0.2628655560595673'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8090170071172163 1.113516355153809 0.2628655560595663'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.309016999242062 0.4253253891965875 -0.2628655560595652'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8090169973829898 0.2628655468017661 -1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4999999921248458 -0.6881909659572223 -1.113516364411609'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5000000078751534 -0.6881909545139558 -1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8090169913669068 0.2628655653173674 -1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.8506508083520407 -1.113516364411608'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 1.639247476530743'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8618033853013207 -1.186170627073993 0.7330937578935469'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8618034124486619 -1.186170607350295 0.7330937578935467'></a-sphere>
+			<a-sphere mixin='esfera' position='1.394427185815236 0.4530768752754055 0.7330937578935477'></a-sphere>
+			<a-sphere mixin='esfera' position='0 1.466187515787092 0.7330937578935484'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.394427196184598 0.4530768433617921 0.7330937578935459'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.394427185815239 -0.4530768752754062 -0.7330937578935439'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -1.466187515787093 -0.7330937578935459'></a-sphere>
+			<a-sphere mixin='esfera' position='1.394427196184598 -0.4530768433617949 -0.7330937578935453'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8618033853013222 1.186170627073991 -0.7330937578935475'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8618034124486608 1.186170607350297 -0.7330937578935438'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 -1.639247476530741'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.8506508083520401 1.113516364411609'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 750; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 5 -1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Augmented dodecahedron</span>
+		<br><span class="titulo">Dodecaedro aumentado</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>

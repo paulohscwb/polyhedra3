@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <title>Deltahedra</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ed; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0324; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/15_Hexexcavated_Snub_Cube.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/15_Hexexcavated_Snub_CubeL.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity scale="4.25 4.25 4.25">
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='-0.6212264105565853 -0.3377539738137523 1.142613508925961'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3377539738137523 -0.6212264105565853 1.142613508925961'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6212264105565853 0.3377539738137523 1.142613508925961'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3377539738137529 1.142613508925962 0.6212264105565836'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6212264105565849 1.142613508925962 0.3377539738137503'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.142613508925962 0.3377539738137523 0.6212264105565833'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.142613508925962 -0.6212264105565849 0.3377539738137503'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3377539738137523 -1.142613508925962 0.6212264105565833'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6212264105565849 -1.142613508925962 0.3377539738137503'></a-sphere>
+			<a-sphere mixin='esfera' position='1.142613508925962 -0.3377539738137523 0.6212264105565833'></a-sphere>
+			<a-sphere mixin='esfera' position='1.142613508925962 0.6212264105565849 0.3377539738137503'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6212264105565856 1.142613508925961 -0.3377539738137543'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3377539738137527 1.142613508925961 -0.6212264105565851'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.142613508925962 0.6212264105565842 -0.3377539738137545'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.142613508925961 -0.3377539738137527 -0.6212264105565853'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6212264105565842 -1.142613508925962 -0.3377539738137545'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3377539738137527 -1.142613508925961 -0.6212264105565853'></a-sphere>
+			<a-sphere mixin='esfera' position='1.142613508925962 -0.6212264105565842 -0.3377539738137545'></a-sphere>
+			<a-sphere mixin='esfera' position='1.142613508925961 0.3377539738137527 -0.6212264105565853'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3377539738137512 0.6212264105565827 -1.142613508925963'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6212264105565849 0.337753973813749 -1.14261350892596'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.337753973813749 -0.6212264105565849 -1.14261350892596'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6212264105565858 -0.3377539738137519 -1.14261350892596'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 0.4355067277394137'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.4355067277394139 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4355067277394141 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.4355067277394141 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4355067277394141 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0 -0.4355067277394131'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3377539738137523 0.6212264105565853 1.142613508925961'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 750; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 5 -1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Excavated Snub cube</span>
+		<br><span class="titulo">Cubo snub escavado</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>

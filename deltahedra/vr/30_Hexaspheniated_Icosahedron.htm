@@ -1,0 +1,75 @@
+<html>
+  <head>
+    <title>Deltahedra</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ed; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.037; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="m1" src="https://paulohscwb.github.io/SacredGeometry/symbols/vr/outros/c8.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/30_Hexaspheniated_Icosahedron.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/30_Hexaspheniated_IcosahedronL.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity scale="3.7 3.7 3.7">
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='0.00213865598047142 -1.068924835035041 1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='0.06853592597135144 -0.9476598228045975 0.155919600349995'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9267853898666716 -0.5326102871084766 -1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6582669214484581 -1.303690372952356 -0.5689663219405858'></a-sphere>
+			<a-sphere mixin='esfera' position='0.8549654436803169 -0.4144760584392185 -0.1559196003499948'></a-sphere>
+			<a-sphere mixin='esfera' position='0.9246467338861999 0.5363145479265643 1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='1.458162442370178 -0.08176931003083737 0.5689663219405861'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5005765661148915 -0.2876741816534064 0.7705413041146858'></a-sphere>
+			<a-sphere mixin='esfera' position='0.0011551337326966 -0.57734911362138 -0.7705413041146859'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9246467338861999 -0.5363145479265643 -1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.458162442370178 0.08176931003083746 -0.5689663219405858'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7864295177089653 -0.533183764365379 -0.1559196003499948'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.9267853898666717 0.5326102871084764 1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6582669214484581 1.303690372952356 0.5689663219405859'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.0011551337326966 0.5773491136213798 0.7705413041146856'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5005765661148915 0.2876741816534061 -0.7705413041146855'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.8549654436803169 0.4144760584392186 0.155919600349995'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7864295177089655 0.533183764365379 0.1559196003499949'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.00213865598047147 1.068924835035041 -1.146316591130212'></a-sphere>
+			<a-sphere mixin='esfera' position='0.7998955209217203 1.221921062921518 -0.5689663219405859'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.06853592597135136 0.9476598228045976 -0.1559196003499951'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.499421432382195 -0.2896749319679737 0.7705413041146857'></a-sphere>
+			<a-sphere mixin='esfera' position='0.499421432382195 0.2896749319679737 -0.7705413041146857'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.7998955209217203 -1.221921062921518 0.5689663219405859'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 750; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.45" position="7 5 -1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Hexaspheniated icosahedron</span>
+		<br><span class="titulo">Icosaedro hexasfeniado</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>

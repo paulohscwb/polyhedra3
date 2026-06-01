@@ -14,8 +14,8 @@
 		<option value="../araucaria/">Araucaria with polyhedrons</option>
 		<option value="../dragon-nonconvex/">Dragon fractals of non-convex polyhedra</option>
 		<option value="../fractal-catalan/">Catalan fractals</option>
-		<!--<option value="../deltahedra/">Deltahedra</option>
-		<option value="../unicorn-platonic/">Plato's Unicorn Fractals</option>
+		<option value="../deltahedra/">Non-convex deltahedra</option>
+		<!--<option value="../unicorn-platonic/">Plato's Unicorn Fractals</option>
 		<option value="../dragon-catalan/">Catalan Dragon Fractals</option>
 		<option value="../fractalnonconvex1/">Fractals of non-convex polyhedra</option>
 		<option value="../truncated-archimedes/">Truncated Archimedean polyhedra</option>
