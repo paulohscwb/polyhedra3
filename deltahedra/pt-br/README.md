@@ -197,7 +197,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>25. Pequeno icosidodecaedro ditrigonal escavado</h4>
-<a href="../vr/25_Dodekexcavated_Sidtid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="fractal dragão de hexecontaedro pentagonal"></a>
+<a href="../vr/25_Dodekexcavated_Sidtid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Pequeno icosidodecaedro ditrigonal escavado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de pequeno icosidodecaedro ditrigonal, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
  <br><b>faces:</b> 80  |  <b>arestas:</b> 120  |  <b>vértices:</b> 42
  <br>
