@@ -233,6 +233,32 @@ function urlHandler(value) {
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+
+<h4>31. Antiprisma pentagrâmico aumentado</h4>
+<a href="../vr/33_PentagrammicAntiprismAugmented.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Antiprisma pentagrâmico aumentado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de antiprisma pentagrâmico, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
+  <br><b>faces:</b> 20  |  <b>arestas:</b> 30  |  <b>vértices:</b> 12
+ <br>
+<hr>
+<h4>32. Antiprisma pentagrâmico escavado</h4>
+<a href="../vr/34_PentagrammicAntiprismExcavated.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Antiprisma pentagrâmico escavado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de antiprisma pentagrâmico, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
+  <br><b>faces:</b> 20  |  <b>arestas:</b> 30  |  <b>vértices:</b> 12
+ <br>
+<hr>
+<h4>33. Antiprisma cruzado pentagrâmico aumentado</h4>
+<a href="../vr/31_PentagrammicCrossedAntiprismAugmented.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Antiprisma cruzado pentagrâmico aumentado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de antiprisma cruzado pentagrâmico, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
+  <br><b>faces:</b> 20  |  <b>arestas:</b> 30  |  <b>vértices:</b> 12
+ <br>
+<hr>
+<h4>34. Antiprisma cruzado pentagrâmico escavado</h4>
+<a href="../vr/32_PentagrammicCrossedAntiprismExcavated.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Antiprisma cruzado pentagrâmico escavado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de antiprisma cruzado pentagrâmico, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
+  <br><b>faces:</b> 20  |  <b>arestas:</b> 30  |  <b>vértices:</b> 12
+ <br>
+<hr>
+
 <h4>31. Deltaedro de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/119A.png" class="foto" alt="Deltaedro de Möbius"></a>
  <br>Os deltaedros de Möbius são simplesmente isômeros das versões do triângulo de Möbius do tetraedro (24 faces), cubo e dodecaedro.
