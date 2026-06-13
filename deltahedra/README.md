@@ -258,7 +258,7 @@ Henry Martyn Cundy identified 17 concave deltahedra (1952), leading to the disco
  <br>
 <hr>
 <h4>35. Augmented great icosidodecahedron</h4>
-<a href="vr/35_Dodekaugmented_Gid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Excavated small ditrigonal icosidodecahedron"></a>
+<a href="vr/35_Dodekaugmented_Gid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Augmented great icosidodecahedron"></a>
  <br>This deltahedron is constructed from a great icosidodecahedron core, to which pentagrammic pyramid-shaped "caps" (augmentations) are attached on its pentagrammic faces.
  <br><b>faces:</b> 80  |  <b>edges:</b> 120  |  <b>vertices:</b> 42
  <br>
