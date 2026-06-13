@@ -15,14 +15,14 @@
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl9" material="color: #8ed; side:double;"></a-mixin>
-			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0153; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.0142; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="obj/solidos.mtl"></a-asset-item>
 			<a-asset-item id="m1" src="obj/solidos.mtl"></a-asset-item>
 			<a-asset-item id="poli" src="obj/43_Dodekexcavated_Girsid.obj"></a-asset-item>
 			<a-asset-item id="poliw" src="obj/43_Dodekexcavated_GirsidL.obj"></a-asset-item>
 		</a-assets>
 		
-		<a-entity scale="9 9 9">
+		<a-entity scale="9.7 9.7 9.7">
 			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera' position='-0.4196057265666384 0.3167400140217599 0.2449664122582135'></a-sphere>

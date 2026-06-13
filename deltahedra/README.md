@@ -295,7 +295,7 @@ Henry Martyn Cundy identified 17 concave deltahedra (1952), leading to the disco
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>41. Augmented great snub inverted icosidodecahedron</h4>
-<a href="vr/41_ Dodecaugmented_Gosid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Augmented great snub inverted icosidodecahedron"></a>
+<a href="vr/41_Dodecaugmented_Gosid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Augmented great snub inverted icosidodecahedron"></a>
  <br>This deltahedron is constructed from a great snub inverted icosidodecahedron core, to which pentagrammic pyramid-shaped "caps" (augmentations) are attached on its pentagrammic faces.
  <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 72
  <br>

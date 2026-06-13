@@ -295,7 +295,7 @@ function urlHandler(value) {
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>41. Grande icosidodecaedro snub invertido aumentado</h4>
-<a href="../vr/41_ Dodecaugmented_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Grande icosidodecaedro snub invertido aumentado"></a>
+<a href="../vr/41_Dodecaugmented_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Grande icosidodecaedro snub invertido aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub invertido, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
  <br>
