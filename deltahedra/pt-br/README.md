@@ -397,33 +397,32 @@ function urlHandler(value) {
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
  <br>
 <hr>
-
-
-<h4>35. Deltaedro de Möbius</h4>
+<h4>58. Deltaedro de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/119A.png" class="foto" alt="Deltaedro de Möbius"></a>
  <br>Os deltaedros de Möbius são simplesmente isômeros das versões do triângulo de Möbius do tetraedro (24 faces), cubo e dodecaedro.
   <br><b>faces:</b> 24  |  <b>arestas:</b> 36  |  <b>vértices:</b> 14
  <br>
 <hr>
-<h4>36. Hexaedro octakis de Möbius</h4>
+<h4>59. Hexaedro octakis de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius48a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/118A.png" class="foto" alt="Hexaedro octakis de Möbius"></a>
  <br>O hexaedro octakis é um deltaedro de Möbius com 48 faces derivado do cubo e do triacontaedro rômbico medial.
   <br><b>faces:</b> 48  |  <b>arestas:</b> 72  |  <b>vértices:</b> 26
  <br>
 <hr>
-<h4>37. Octaedro hexakis de Möbius</h4>
+<h4>60. Octaedro hexakis de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius48b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/117A.png" class="foto" alt="Octaedro hexakis de Möbius"></a>
  <br>O octaedro hexakis é um deltaedro de Möbius com 48 faces derivado do cubo e do triacontaedro rômbico medial.
   <br><b>faces:</b> 48  |  <b>arestas:</b> 72  |  <b>vértices:</b> 26
  <br>
 <hr>
-<h4>38. Icosaedro hexakis de Möbius</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>61. Icosaedro hexakis de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius120a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/116A.png" class="foto" alt="Icosaedro hexakis de Möbius"></a>
  <br>O icosaedro hexakis é um deltaedro de Möbius com 120 faces derivado do icosaedro e do grande triacontaedro rômbico.
   <br><b>faces:</b> 120  |  <b>arestas:</b> 180  |  <b>vértices:</b> 62
  <br>
 <hr>
-<h4>39. Dodecaedro 10-akis de Möbius</h4>
+<h4>62. Dodecaedro 10-akis de Möbius</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius120b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/115A.png" class="foto" alt="Dodecaedro 10-akis de Möbius"></a>
  <br>O Dodecaedro 10-akis é um deltaedro de Möbius com 120 faces derivado do dodecaedro e do grande triacontaedro rômbico.
   <br><b>faces:</b> 120  |  <b>arestas:</b> 180  |  <b>vértices:</b> 62

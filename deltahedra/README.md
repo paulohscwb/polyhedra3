@@ -397,33 +397,32 @@ Henry Martyn Cundy identified 17 concave deltahedra (1952), leading to the disco
  <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
  <br>
 <hr>
-
-
-<h4>35. Möbius deltahedron</h4>
+<h4>58. Möbius deltahedron</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius24.htm" target="_blank" title="3D model" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/119A.png" class="foto" alt="Möbius Deltahedron"></a>
  <br>Möbius deltahedra are simply isomers of the Möbius triangle versions of the tetrahedron, cube and dodecahedron.
  <br><b>faces:</b> 24  |  <b>edges:</b> 36  |  <b>vertices:</b> 14
  <br>
 <hr>
-<h4>36. Möbius octakis hexahedron</h4>
+<h4>59. Möbius octakis hexahedron</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius48a.htm" target="_blank" title="3D model" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/118A.png" class="foto" alt="Möbius octakis hexahedron"></a>
  <br>The octakis hexahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron.
  <br><b>faces:</b> 48  |  <b>edges:</b> 72  |  <b>vertices:</b> 26
  <br>
 <hr>
-<h4>37. Möbius hexakis octahedron</h4>
+<h4>60. Möbius hexakis octahedron</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius48b.htm" target="_blank" title="3D model" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/117A.png" class="foto" alt="Möbius hexakis octahedron"></a>
  <br>The hexakis octahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron.
  <br><b>faces:</b> 48  |  <b>edges:</b> 72  |  <b>vertices:</b> 26
  <br>
 <hr>
-<h4>38. Möbius hexakis icosahedron</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>61. Möbius hexakis icosahedron</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius120a.htm" target="_blank" title="3D model" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/116A.png" class="foto" alt="Möbius hexakis icosahedron"></a>
  <br>The hexakis icosahedron is a 120-faced Möbius deltahedron derived from the icosahedron and the great rhombic triacontahedron.
  <br><b>faces:</b> 120  |  <b>edges:</b> 180  |  <b>vertices:</b> 62
  <br>
 <hr>
-<h4>39. Möbius 10-akis dodecahedron</h4>
+<h4>62. Möbius 10-akis dodecahedron</h4>
 <a href="https://paulohscwb.github.io/polyhedra/nonconvex/vr/mobius120b.htm" target="_blank" title="3D model" class="fotoA"><img src="https://paulohscwb.github.io/polyhedra/nonconvex/ar/115A.png" class="foto" alt="Möbius 10-akis dodecahedron"></a>
  <br>The 10-akis dodecahedron is a 120-faced Möbius deltahedron derived from the dodecahedron and the great rhombic triacontahedron.
  <br><b>faces:</b> 120  |  <b>edges:</b> 180  |  <b>vertices:</b> 62
