@@ -281,28 +281,28 @@ function urlHandler(value) {
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
  <br>
 <hr>
-<h4>39. Grande icosidodecaedro snub escavado</h4>
-<a href="../vr/39_Dodekexcavated_Gisid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Grande icosidodecaedro snub escavado"></a>
- <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
+<h4>39. Grande icosidodecaedro snub invertido escavado</h4>
+<a href="../vr/39_Dodekexcavated_Gisid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Grande icosidodecaedro snub invertido escavado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub invertido, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
  <br>
 <hr>
-<h4>40. Grande icosidodecaedro snub aumentado</h4>
-<a href="../vr/40_Dodecaugmented_Gisid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Grande icosidodecaedro snub aumentado"></a>
- <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
- <br>
-<hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>41. Grande icosidodecaedro snub invertido aumentado</h4>
-<a href="../vr/41_Dodecaugmented_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Grande icosidodecaedro snub invertido aumentado"></a>
+<h4>40. Grande icosidodecaedro snub invertido aumentado</h4>
+<a href="../vr/40_Dodecaugmented_Gisid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Grande icosidodecaedro snub invertido aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub invertido, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
  <br>
 <hr>
-<h4>42. Grande icosidodecaedro snub invertido escavado</h4>
-<a href="../vr/42_Dodekexcavated_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Grande icosidodecaedro snub invertido escavado"></a>
- <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub invertido, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Grande icosidodecaedro snub aumentado</h4>
+<a href="../vr/41_Dodecaugmented_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Grande icosidodecaedro snub aumentado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
+  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
+ <br>
+<hr>
+<h4>42. Grande icosidodecaedro snub escavado</h4>
+<a href="../vr/42_Dodekexcavated_Gosid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Grande icosidodecaedro snub escavado"></a>
+ <br>Este deltaedro é construído a partir de um núcleo de grande icosidodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
   <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
  <br>
 <hr>
