@@ -64,7 +64,7 @@ function urlHandler(value) {
 <hr>
 <h4>3. Octaedro aumentado</h4>
 <a href="../vr/03_Octagyraugmented_Octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Octaedro aumentado"></a>
- <br>Este deltaedro é construído a partir de um núcleo tetraédrico regular, ao qual são anexadas "tampas" octaédricas (aumentos) em suas quatro faces.
+ <br>Este deltaedro é construído a partir de um núcleo octaédrico regular, ao qual são anexadas "tampas" octaédricas (aumentos) em suas quatro faces.
  <br><b>faces:</b> 56  |  <b>arestas:</b> 84  |  <b>vértices:</b> 30
  <br>
 <hr>
@@ -333,68 +333,68 @@ function urlHandler(value) {
 <h4>47. Grande dodecicosidodecaedro snub escavado</h4>
 <a href="../vr/47_Dodekexcavated_Gsd.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto" alt="Grande dodecicosidodecaedro snub escavado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de grande dodecicosidodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
+  <br><b>faces:</b> 200  |  <b>arestas:</b> 300  |  <b>vértices:</b> 72
  <br>
 <hr>
 <h4>48. Grande dodecicosidodecaedro snub aumentado</h4>
 <a href="../vr/48_Dodekaugmented_Gsd.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="Grande dodecicosidodecaedro snub aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de grande dodecicosidodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas (aumentos) em suas faces pentagrâmicas.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 72
+  <br><b>faces:</b> 200  |  <b>arestas:</b> 300  |  <b>vértices:</b> 72
  <br>
 <hr>
 <h4>49. Dodecadodecaedro snub aumentado</h4>
 <a href="../vr/49_Dodekaugmented_Sd.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto" alt="Dodecadodecaedro snub aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas e pentagonais (aumentos) em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>50. Dodecadodecaedro snub escavado</h4>
 <a href="../vr/50_Dodekexcavated_Sd.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto" alt="Dodecadodecaedro snub escavado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas e pentagonais em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>51. Dodecadodecaedro snub escavado e aumentado</h4>
 <a href="../vr/51_Dodekaugmentedexcavated_Sd.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/51A.png" class="foto" alt="Dodecadodecaedro snub escavado e aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas, e são anexadas "tampas" em formato de pirâmides pentagonais (aumentos) em suas faces pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>52. Dodecadodecaedro snub invertido aumentado</h4>
 <a href="../vr/52_Dodekaugmented_Sid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="Dodecadodecaedro snub invertido aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub invertido, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas e pentagonais (aumentos) em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>53. Dodecadodecaedro snub invertido escavado</h4>
 <a href="../vr/53_Dodekexcavated_Sid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="Dodecadodecaedro snub invertido escavado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub invertido, ao qual são escavadas pirâmides pentagrâmicas e pentagonais em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>54. Dodecadodecaedro snub invertido escavado e aumentado</h4>
 <a href="../vr/54_Dodekaugmentedexcavated_Sid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/54A.png" class="foto" alt="Dodecadodecaedro snub invertido escavado e aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de dodecadodecaedro snub invertido, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas, e são anexadas "tampas" em formato de pirâmides pentagonais (aumentos) em suas faces pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>55. Icosidodecadodecaedro snub aumentado</h4>
 <a href="../vr/57_Dodekaugmented_Sic.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto" alt="Icosidodecadodecaedro snub aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de icosidodecadodecaedro snub, ao qual são anexadas "tampas" em formato de pirâmides pentagrâmicas e pentagonais (aumentos) em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>56. Icosidodecadodecaedro snub escavado</h4>
 <a href="../vr/55_Dodekexcavated_Sic.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/56A.png" class="foto" alt="Icosidodecadodecaedro snub escavado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de icosidodecadodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas e pentagonais em suas faces pentagrâmicas e pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>57. Icosidodecadodecaedro snub escavado e aumentado</h4>
 <a href="../vr/56_Dodekaugmentedexcavated_Sic.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/57A.png" class="foto" alt="Icosidodecadodecaedro snub escavado e aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo de icosidodecadodecaedro snub, ao qual são escavadas pirâmides pentagrâmicas em suas faces pentagrâmicas, e são anexadas "tampas" em formato de pirâmides pentagonais (aumentos) em suas faces pentagonais.
-  <br><b>faces:</b> 140  |  <b>arestas:</b> 210  |  <b>vértices:</b> 84
+  <br><b>faces:</b> 180  |  <b>arestas:</b> 270  |  <b>vértices:</b> 84
  <br>
 <hr>
 <h4>58. Deltaedro de Möbius</h4>

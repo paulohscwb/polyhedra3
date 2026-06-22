@@ -333,68 +333,68 @@ Henry Martyn Cundy identified 17 concave deltahedra (1952), leading to the disco
 <h4>47. Excavated great snub dodecicosidodecahedron</h4>
 <a href="vr/47_Dodekexcavated_Gsd.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto" alt="Augmented great snub dodecicosidodecahedron"></a>
  <br>This deltahedron is constructed from a great snub dodecicosidodecahedron core, to which pentagrammic pyramids are excavated on its pentagrammic faces.
- <br><b>faces:</b> 200  |  <b>edges:</b> 300  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 200  |  <b>edges:</b> 300  |  <b>vertices:</b> 72
  <br>
 <hr>
 <h4>48. Augmented great snub dodecicosidodecahedron</h4>
 <a href="vr/48_Dodekaugmented_Gsd.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Excavated great snub dodecicosidodecahedron"></a>
  <br>This deltahedron is constructed from a great snub dodecicosidodecahedron core, to which pentagrammic pyramid-shaped "caps" (augmentations) are attached on its pentagrammic faces.
- <br><b>faces:</b> 200  |  <b>edges:</b> 300  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 200  |  <b>edges:</b> 300  |  <b>vertices:</b> 72
  <br>
 <hr>
 <h4>49. Augmented snub dodecadodecahedron</h4>
 <a href="vr/49_Dodekaugmented_Sd.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto" alt="Augmented snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a snub dodecadodecahedron core, to which pentagrammic and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>50. Excavated snub dodecadodecahedron</h4>
 <a href="vr/50_Dodekexcavated_Sd.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto" alt="Excavated snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a snub dodecadodecahedron core, to which pentagrammic and pentagonal pyramids are excavated on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>51. Excavated and augmented snub dodecadodecahedron</h4>
 <a href="vr/51_Dodekaugmentedexcavated_Sd.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Excavated and augmented snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a snub dodecadodecahedron core, to which pentagrammic pyramids are excavated on its pentagrammic faces, and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>52. Augmented inverted snub dodecadodecahedron</h4>
 <a href="vr/52_Dodekaugmented_Sid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Augmented inverted snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a inverted snub dodecadodecahedron core, to which pentagrammic and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>53. Excavated inverted snub dodecadodecahedron</h4>
 <a href="vr/53_Dodekexcavated_Sid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto" alt="Excavated inverted snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a inverted snub dodecadodecahedron core, to which pentagrammic and pentagonal pyramids are excavated on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>54. Excavated and augmented inverted snub dodecadodecahedron</h4>
 <a href="vr/54_Dodekaugmentedexcavated_Sid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto" alt="Excavated and augmented inverted snub dodecadodecahedron"></a>
  <br>This deltahedron is constructed from a inverted snub dodecadodecahedron core, to which pentagrammic pyramids are excavated on its pentagrammic faces, and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>55. Augmented snub icosidodecadodecahedron</h4>
 <a href="vr/57_Dodekaugmented_Sic.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto" alt="Augmented snub icosidodecadodecahedron"></a>
  <br>This deltahedron is constructed from a snub icosidodecadodecahedron core, to which pentagrammic and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>56. Excavated snub icosidodecadodecahedron</h4>
 <a href="vr/55_Dodekexcavated_Sic.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/56A.png" class="foto" alt="Excavated snub icosidodecadodecahedron"></a>
  <br>This deltahedron is constructed from a great snub icosidodecadodecahedron core, to which pentagrammic and pentagonal pyramids are excavated on its pentagrammic and pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>57. Excavated and augmented snub icosidodecadodecahedron</h4>
 <a href="vr/56_Dodekaugmentedexcavated_Sic.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto" alt="Excavated and augmented snub icosidodecadodecahedron"></a>
  <br>This deltahedron is constructed from a great snub icosidodecadodecahedron core, to which pentagrammic pyramids are excavated on its pentagrammic faces, and pentagonal pyramid-shaped "caps" (augmentations) are attached on its pentagonal faces.
- <br><b>faces:</b> 140  |  <b>edges:</b> 210  |  <b>vertices:</b> 84
+ <br><b>faces:</b> 180  |  <b>edges:</b> 270  |  <b>vertices:</b> 84
  <br>
 <hr>
 <h4>58. Möbius deltahedron</h4>
