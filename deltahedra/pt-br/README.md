@@ -49,7 +49,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/video1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR deltahedra"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/playlist?list=PLGuFgsNQdmUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=ZEi5cPLLjqPd6L6X&amp;list=PLGuFgsNQdmUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetraedro aumentado</h4>
 <a href="../vr/01_Tetraugmented_Tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Tetraedro aumentado"></a>
  <br>Este deltaedro é construído a partir de um núcleo tetraédrico regular, ao qual são anexadas "tampas" tetraédricas (aumentos) em suas quatro faces.
