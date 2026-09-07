@@ -276,7 +276,7 @@ function urlHandler(value) {
 <hr>
 <h4>6. Icositetraedro pentagonal</h4>
 <a href="../vr/PentagonalIcositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="fractal do Icositetraedro Pentagonal"></a>
- <br>Aplicando-se o princípio de construção da curva de Koch nas faces do icositetraedro pentagonal, obtemos um fractal do icositetraedro pentagonal. Na primeira ordem de construção do fractal, construímos um novo sólido em 8 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
+ <br>Aplicando-se o princípio de construção de Sierpinski nas faces do icositetraedro pentagonal, obtemos um fractal do icositetraedro pentagonal. Na primeira ordem de construção do fractal, construímos um novo sólido em 8 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
  <center><table>
 	<tr>
 		<th>ordem</th>
@@ -493,7 +493,7 @@ function urlHandler(value) {
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Dodecaedro snub de Arquimedes</h4>
-<a href="../vr/SnubDodecahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="fractal dragão de dodecaedro snub"></a>
+<a href="../vr/SnubDodecahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="fractal de dodecaedro snub"></a>
  <br>Aplicando-se o princípio de construção da curva de Koch nas faces do dodecaedro snub, obtemos um fractal do dodecaedro snub. Na primeira ordem de construção do fractal, construímos um novo sólido em 20 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2 e 3.
  <center><table>
 	<tr>
@@ -695,7 +695,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>28. Tetraedro triakis</h4>
-<a href="../vr/TriakisTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="fractal dragão de Cuboctaedro cubitruncado"></a>
+<a href="../vr/TriakisTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="fractal de Cuboctaedro cubitruncado"></a>
  <br>Aplicando-se o princípio de construção de Sierpinski nas faces do tetraedro triakis, obtemos um fractal do tetraedro triakis. Na primeira ordem de construção do fractal, construímos um novo sólido em 4 vértices do poliedro original. Neste exemplo, temos as representações do sólido nas ordens 0, 1, 2, 3 e 4.
  <center><table>
 	<tr>

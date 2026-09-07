@@ -94,7 +94,7 @@ function urlHandler(value) {
 <hr>
 <h4>2. Deltoidal icositetrahedron</h4>
 <a href="vr/DeltoidalIcositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Deltoidal icositetrahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the deltoidal icositetrahedron, we obtain a deltoidal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
+ <br>Applying the construction principle of the Sierpinski to faces of the deltoidal icositetrahedron, we obtain a deltoidal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
  <center><table>
 	<tr>
 		<th>order</th>
@@ -142,7 +142,7 @@ function urlHandler(value) {
 <hr>
 <h4>3. Disdyakis dodecahedron</h4>
 <a href="vr/DisdyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Disdyakis dodecahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the disdyakis dodecahedron, we obtain a disdyakis dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
+ <br>Applying the construction principle of the Sierpinski to faces of the disdyakis dodecahedron, we obtain a disdyakis dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
  <center><table>
 	<tr>
 		<th>order</th>
@@ -275,7 +275,7 @@ function urlHandler(value) {
 <hr>
 <h4>6. Pentagonal icositetrahedron</h4>
 <a href="vr/PentagonalIcositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Pentagonal icositetrahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the pentagonal icositetrahedron, we obtain a pentagonal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 8 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
+ <br>Applying the construction principle of the Sierpinski to faces of the pentagonal icositetrahedron, we obtain a pentagonal icositetrahedron fractal. In the first order of fractal construction, we construct a new solid at 8 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
  <center><table>
 	<tr>
 		<th>order</th>
@@ -359,7 +359,7 @@ function urlHandler(value) {
 <hr>
 <h4>8. Rhombic dodecahedron</h4>
 <a href="vr/RhombicDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Rhombic Dodecahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the rhombic dodecahedron, we obtain a rhombic dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
+ <br>Applying the construction principle of the Sierpinski to faces of the rhombic dodecahedron, we obtain a rhombic dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
  <center><table>
 	<tr>
 		<th>order</th>
@@ -449,7 +449,7 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>10. Rhombic triacontahedron</h4>
-<a href="vr/RhombicTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Great triakis icosahedron dragon fractal"></a>
+<a href="vr/RhombicTriacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Rhombic triacontahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the rhombic triacontahedron, we obtain a rhombic triacontahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
  <center><table>
 	<tr>
@@ -492,7 +492,7 @@ function urlHandler(value) {
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Archimedean snub dodecahedron</h4>
-<a href="vr/SnubDodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Great triakis octahedron dragon fractal"></a>
+<a href="vr/SnubDodecahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Archimedean snub dodecahedron fractal"></a>
  <br>Applying the construction principle of the Koch curve to faces of the snub dodecahedron, we obtain a snub dodecahedron fractal. In the first order of fractal construction, we construct a new solid at 20 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2 and 3.
  <center><table>
 	<tr>
@@ -644,7 +644,7 @@ function urlHandler(value) {
 <hr>
 <h4>27. Triakis octahedron</h4>
 <a href="vr/TriakisOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Triakis octahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the triakis octahedron, we obtain a triakis octahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
+ <br>Applying the construction principle of the Sierpinski to faces of the triakis octahedron, we obtain a triakis octahedron fractal. In the first order of fractal construction, we construct a new solid at 6 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
  <center><table>
 	<tr>
 		<th>order</th>
@@ -693,7 +693,7 @@ function urlHandler(value) {
 <hr>
 <h4>28. Triakis tetrahedron</h4>
 <a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Triakis tetrahedron fractal"></a>
- <br>Applying the construction principle of the Sierpinski curve to faces of the triakis tetrahedron, we obtain a triakis tetrahedron fractal. In the first order of fractal construction, we construct a new solid at 4 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
+ <br>Applying the construction principle of the Sierpinski to faces of the triakis tetrahedron, we obtain a triakis tetrahedron fractal. In the first order of fractal construction, we construct a new solid at 4 vertices of the original polyhedron. In this example, we have representations of the solid in orders 0, 1, 2, 3 and 4.
  <center><table>
 	<tr>
 		<th>order</th>
