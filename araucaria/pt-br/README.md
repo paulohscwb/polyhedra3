@@ -213,6 +213,21 @@ function urlHandler(value) {
  <br>Araucária modelada com Estrela de icosaedro truncado com pipas.
  <br>
 <hr>
+<h4>33. Pequeno icosaedro triâmbico</h4>
+<a href="../vr/Araucariapoly32.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Araucária com Pequenos icosaedros triâmbicos"></a>
+ <br>Araucária modelada com Pequenos icosaedros triâmbicos.
+ <br>
+<hr>
+<h4>34. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/Araucariapoly33.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Araucária com Hexecontaedros deltoides mediais"></a>
+ <br>Araucária modelada com Hexecontaedros deltoides mediais.
+ <br>
+<hr>
+<h4>35. Pequeno hexecontaedro hexagonal</h4>
+<a href="../vr/Araucariapoly34.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Araucária com Pequeno hexecontaedro hexagonal"></a>
+ <br>Araucária modelada com Pequenos hexecontaedros hexagonais.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Araucaria with polyhedrons: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra3/araucaria/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
